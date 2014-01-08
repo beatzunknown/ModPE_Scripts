@@ -76,7 +76,7 @@ function btn(){
 			cBtn.setOnClickListener(new android.view.View.OnClickListener({
 				onClick: function(viewarg){
 					Btn.dismiss();
-                    starter();
+                    			starter();
 				}
 			}));
 			btnLayout.addView(cBtn);
