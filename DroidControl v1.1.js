@@ -41,14 +41,14 @@ function starter(){
 	var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
 	ctx.runOnUiThread(new java.lang.Runnable({ run: function(){
 		try{
-            var GUILayout = new android.widget.LinearLayout(ctx);
+            		var GUILayout = new android.widget.LinearLayout(ctx);
 			GUILayout.setOrientation(0);
 			
 			var startBtn = new android.widget.Button(ctx);
 			startBtn.setText("S");
 			startBtn.setOnClickListener(new android.view.View.OnClickListener({
 				onClick: function(viewarg){
-                  	GUI.dismiss();
+                  			GUI.dismiss();
 					btn();
 				}
 			}));
@@ -67,7 +67,7 @@ function btn(){
 	var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
 	ctx.runOnUiThread(new java.lang.Runnable({ run: function(){
 		try{
-            var btnLayout = new android.widget.LinearLayout(ctx);
+            		var btnLayout = new android.widget.LinearLayout(ctx);
 			btnLayout.setOrientation(0);
 			
 			var menuBtn = new android.widget.Button(ctx);
@@ -94,7 +94,7 @@ function btn(){
 			c.setOnClickListener(new android.view.View.OnClickListener({
 				onClick: function(viewarg){
 					Btn.dismiss(); 
-                	starter();
+                			starter();
 				}
 			}));
 			btnLayout.addView(c);
@@ -113,53 +113,53 @@ function openMenu(){
 	ctx.runOnUiThread(new java.lang.Runnable({ run: function(){
 		try{
 			var layout = new android.widget.LinearLayout(ctx);
-            var layoutScroll = new android.widget.ScrollView(ctx);
-          	var layout1 = new android.widget.LinearLayout(ctx);
+            		var layoutScroll = new android.widget.ScrollView(ctx);
+          		var layout1 = new android.widget.LinearLayout(ctx);
 			layout.setOrientation(1);
-          	layout1.setOrientation(1);
+          		layout1.setOrientation(1);
           	
-          	layoutScroll.addView(layout);
-          	layout1.addView(layoutScroll);
+          		layoutScroll.addView(layout);
+          		layout1.addView(layoutScroll);
 			
 			var textParams = new android.widget.LinearLayout.LayoutParams(android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT);
-        	textParams.setMargins(dip2px(ctx, 5), 0, 0, 0);
+        		textParams.setMargins(dip2px(ctx, 5), 0, 0, 0);
 			
-            var title = new android.widget.TextView(ctx);
-            title.setTextSize(24);
-            title.setText("DroidControl");
-           	title.setLayoutParams(textParams);
-            layout.addView(title);
+            		var title = new android.widget.TextView(ctx);
+            		title.setTextSize(24);
+            		title.setText("DroidControl");
+           		title.setLayoutParams(textParams);
+            		layout.addView(title);
 			
-            var stitle = new android.widget.TextView(ctx);
-            stitle.setTextSize(14);
-            stitle.setText("By C0D3-H4CK3R");
-           	stitle.setLayoutParams(textParams);
-            layout.addView(stitle);
+            		var stitle = new android.widget.TextView(ctx);
+            		stitle.setTextSize(14);
+            		stitle.setText("By C0D3-H4CK3R");
+           		stitle.setLayoutParams(textParams);
+            		layout.addView(stitle);
 			
 			var health = new android.widget.Button(ctx);
 			health.setText("Health Changer");
 			health.setOnClickListener(new android.view.View.OnClickListener({
 				onClick: function(viewarg){
 					healthMenu();
-                }
+                		}
 			}));
 			layout.addView(health);
           
 			var move = new android.widget.Button(ctx);
 			move.setText("Movement");
 			move.setOnClickListener(new android.view.View.OnClickListener({
-            	onClick: function(viewarg){
+            			onClick: function(viewarg){
 					moveMenu();
-                }
+                		}
 			}));
 			layout.addView(speed);
           
 			var explo = new android.widget.Button(ctx);
 			explo.setText("Explode");
 			explo.setOnClickListener(new android.view.View.OnClickListener({
-            	onClick: function(viewarg){
+            			onClick: function(viewarg){
 					exploMenu.show();
-                }
+                		}
 			}));
 			layout.addView(explo);
 		  
@@ -254,15 +254,15 @@ function openMenu(){
 			var xbutton = new android.widget.Button(ctx);
 			xbutton.setText("Close");
 			xbutton.setOnClickListener(new android.view.View.OnClickListener({
-                onClick: function(viewarg){
-                    menu.dismiss();
-                }
+                		onClick: function(viewarg){
+                			menu.dismiss();
+                		}
 			}));
 			layout.addView(xbutton);
 			
-            menu = new android.widget.PopupWindow(layout1, ctx.getWindowManager().getDefaultDisplay().getWidth()/2, ctx.getWindowManager().getDefaultDisplay().getHeight());
-            menu.setBackgroundDrawable(new android.graphics.drawable.ColorDrawable(android.graphics.Color.BLACK));
-            menu.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.RIGHT | android.view.Gravity.TOP, 0, 0);
+            		menu = new android.widget.PopupWindow(layout1, ctx.getWindowManager().getDefaultDisplay().getWidth()/2, ctx.getWindowManager().getDefaultDisplay().getHeight());
+            		menu.setBackgroundDrawable(new android.graphics.drawable.ColorDrawable(android.graphics.Color.BLACK));
+        	 	menu.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.RIGHT | android.view.Gravity.TOP, 0, 0);
 		}catch(e){
 			print("The menu could not be displayed because: " + e);
 		}
@@ -283,13 +283,13 @@ function healthMenu(){
 			healthLayout1.addView(healthScroll);
 			
 			var textParams = new android.widget.LinearLayout.LayoutParams(android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT);
-            textParams.setMargins(dip2px(ctx, 5), 0, 0, 0);
+            		textParams.setMargins(dip2px(ctx, 5), 0, 0, 0);
 			
-            var title = new android.widget.TextView(ctx);
-            title.setTextSize(24);
-            title.setText("DroidControl:");
-            title.setLayoutParams(textParams);
-            healthLayout.addView(title);
+            		var title = new android.widget.TextView(ctx);
+            		title.setTextSize(24);
+            		title.setText("DroidControl:");
+            		title.setLayoutParams(textParams);
+            		healthLayout.addView(title);
 			
 			var stitle = new android.widget.TextView(ctx);
 			stitle.setTextSize(22);
@@ -413,9 +413,9 @@ function healthMenu(){
 			var cbtn = new android.widget.Button(ctx);
 			cbtn.setText("Close");
 			cbtn.setOnClickListener(new android.view.View.OnClickListener({
-                onClick: function(viewarg){
-                    hGUI.dismiss();
-                }
+                		onClick: function(viewarg){
+                    			hGUI.dismiss();
+                		}
 			}));
 			healthLayout.addView(cbtn);
 			
@@ -436,13 +436,13 @@ function moveMenu(){
 			moveLayout.setOrientation(1);
 			
 			var textParams = new android.widget.LinearLayout.LayoutParams(android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT);
-            textParams.setMargins(dip2px(ctx, 5), 0, 0, 0);
+            		textParams.setMargins(dip2px(ctx, 5), 0, 0, 0);
 			
-            var title = new android.widget.TextView(ctx);
-            title.setTextSize(24);
-            title.setText("DroidControl:");
-            title.setLayoutParams(textParams);
-            moveLayout.addView(title);
+            		var title = new android.widget.TextView(ctx);
+            		title.setTextSize(24);
+            		title.setText("DroidControl:");
+            		title.setLayoutParams(textParams);
+            		moveLayout.addView(title);
 			
 			var stitle = new android.widget.TextView(ctx);
 			stitle.setTextSize(22);
@@ -591,10 +591,10 @@ function modTick()
 			jump = 0;
 		}
 	}
-    if(jetpack==1){
+    	if(jetpack==1){
 		jetpackTick();
 		Player.setHealth(30000);
-    }
+    	}
 	//Sprinting Code, Thanks to WhyToFu
 	if(running==true){
 		if(i==1){
