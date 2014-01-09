@@ -2,7 +2,7 @@
 DroidControl v1.1 - Your worlds will no longer control you, you will control THEM!
 */
 
-ar GUI = null;
+var GUI = null;
 var Btn = null;
 var menu = null;
 var hGUI = null;
