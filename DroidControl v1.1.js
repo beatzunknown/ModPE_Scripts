@@ -94,7 +94,7 @@ function btn(){
 			c.setOnClickListener(new android.view.View.OnClickListener({
 				onClick: function(viewarg){
 					Btn.dismiss(); 
-                    starter();
+                	starter();
 				}
 			}));
 			btnLayout.addView(c);
@@ -113,7 +113,7 @@ function openMenu(){
 	ctx.runOnUiThread(new java.lang.Runnable({ run: function(){
 		try{
 			var layout = new android.widget.LinearLayout(ctx);
-          	var layoutScroll = new android.widget.ScrollView(ctx);
+            var layoutScroll = new android.widget.ScrollView(ctx);
           	var layout1 = new android.widget.LinearLayout(ctx);
 			layout.setOrientation(1);
           	layout1.setOrientation(1);
@@ -122,18 +122,18 @@ function openMenu(){
           	layout1.addView(layoutScroll);
 			
 			var textParams = new android.widget.LinearLayout.LayoutParams(android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT);
-            textParams.setMargins(dip2px(ctx, 5), 0, 0, 0);
+        	textParams.setMargins(dip2px(ctx, 5), 0, 0, 0);
 			
             var title = new android.widget.TextView(ctx);
             title.setTextSize(24);
             title.setText("DroidControl");
-            title.setLayoutParams(textParams);
+           	title.setLayoutParams(textParams);
             layout.addView(title);
 			
             var stitle = new android.widget.TextView(ctx);
             stitle.setTextSize(14);
             stitle.setText("By C0D3-H4CK3R");
-            stitle.setLayoutParams(textParams);
+           	stitle.setLayoutParams(textParams);
             layout.addView(stitle);
 			
 			var health = new android.widget.Button(ctx);
