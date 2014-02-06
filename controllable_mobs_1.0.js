@@ -22,7 +22,7 @@ function mobControls(){
 			controlLayout.setOrientation(1);
 			
 			var forwardBtn = new android.widget.Button(ctx);
-			forwardBtn.setText("F");
+			forwardBtn.setText("↑");
 			forwardBtn.setOnTouchListener(new android.view.View.OnTouchListener({
 				onTouch: function(v, event){
 					if(!verticalMovement){
@@ -68,7 +68,7 @@ function mobControls(){
 			controlLayout.addView(middleBtn);
 			
 			var backwardBtn = new android.widget.Button(ctx);
-			backwardBtn.setText("B");
+			backwardBtn.setText("↓");
 			backwardBtn.setOnTouchListener(new android.view.View.OnTouchListener({
 				onTouch: function(v, event){
 					if(!verticalMovement){
