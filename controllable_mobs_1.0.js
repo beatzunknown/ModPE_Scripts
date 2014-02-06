@@ -120,13 +120,14 @@ function attackHook(attacker, victim){
 
 function modTick(){
 	if(controlsReady==true){
-		//Start of MrARM's script
+	    //500ISE's script
 		var playerYaw = getYaw();
 		var playerPitch = getPitch();
 		var velX = -1 * Math.sin(playerYaw / 180 * Math.PI) * ANIMAL_SPEED;
 		var velZ = Math.cos(playerYaw / 180 * Math.PI) * ANIMAL_SPEED;
 		var velY = 0;
 		var jumpVel = 0.2;
+		//Start of MrARM's script
 		if(velX > 0){
 			if(getTile(Player.getX()+1, Math.floor(Entity.getY(controlledMob)), Player.getZ()) != 0)
 				velY = jumpVel;
