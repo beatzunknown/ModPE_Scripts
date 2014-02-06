@@ -4,10 +4,11 @@ var controlUI = null;
 var controlsReady = false;
 var forward = false;
 var backward = false;
-var left = false;
-var right = false;
 var up = false;
 var down = false;
+var checked = false;
+var verticalMovement = false;
+var ANIMAL_SPEED = 0.5;
 
 function newLevel(){
 	mobControls();
@@ -24,103 +25,75 @@ function mobControls(){
 			forwardBtn.setText("F");
 			forwardBtn.setOnTouchListener(new android.view.View.OnTouchListener({
 				onTouch: function(v, event){
-					switch(event.getAction()){
-						case 0:
-							forward = true;
-							break;
-						case 1:
-							forward = false;
-							break;
+					if(!verticalMovement){
+						switch(event.getAction()){
+							case 0:
+								forward = true;
+								break;
+							case 1:
+								forward = false;
+								break;
+						}
+					}else{
+						switch(event.getAction()){
+							case 0:
+								up = true;
+								break;
+							case 1:
+								up = false;
+								break;
+						}
 					}
 					return true;
 				}
 			}));
 			controlLayout.addView(forwardBtn);
 			
+			var middleBtn = new android.widget.ToggleButton(ctx);
+			middleBtn.setChecked(checked);
+			middleBtn.setText("∞");
+			middleBtn.setOnClickListener(new android.view.View.OnClickListener({
+				onClick: function(viewarg){
+					if(!verticalMovement){
+						verticalMovement = true;
+						checked = true;
+					}else{
+						verticalMovement = false;
+						checked = false;
+					}
+					middleBtn.setChecked(checked);
+					middleBtn.setText("∞");
+				}
+			}));
+			controlLayout.addView(middleBtn);
+			
 			var backwardBtn = new android.widget.Button(ctx);
 			backwardBtn.setText("B");
 			backwardBtn.setOnTouchListener(new android.view.View.OnTouchListener({
 				onTouch: function(v, event){
-					switch(event.getAction()){
-						case 0:
-							backward = true;
-							break;
-						case 1:
-							backward = false;
-							break;
+					if(!verticalMovement){
+						switch(event.getAction()){
+							case 0:
+								backward = true;
+								break;
+							case 1:
+								backward = false;
+								break;
+						}
+					}else{
+						switch(event.getAction()){
+							case 0:
+								down = true;
+								break;
+							case 1:
+								down = false;
+								break;
+						}
 					}
 					return true;
 				}
 			}));
 			controlLayout.addView(backwardBtn);
-			
-			var leftBtn = new android.widget.Button(ctx);
-			leftBtn.setText("L");
-			leftBtn.setOnTouchListener(new android.view.View.OnTouchListener({
-				onTouch: function(v, event){
-					switch(event.getAction()){
-						case 0:
-							left = true;
-							break;
-						case 1:
-							left = false;
-							break;
-					}
-					return true;
-				}
-			}));
-			controlLayout.addView(leftBtn);
-			
-			var rightBtn = new android.widget.Button(ctx);
-			rightBtn.setText("R");
-			rightBtn.setOnTouchListener(new android.view.View.OnTouchListener({
-				onTouch: function(v, event){
-					switch(event.getAction()){
-						case 0:
-							right = true;
-							break;
-						case 1:
-							right = false;
-							break;
-					}
-					return true;
-				}
-			}));
-			controlLayout.addView(rightBtn);
-			
-			var upBtn = new android.widget.Button(ctx);
-			upBtn.setText("U");
-			upBtn.setOnTouchListener(new android.view.View.OnTouchListener({
-				onTouch: function(v, event){
-					switch(event.getAction()){
-						case 0:
-							up = true;
-							break;
-						case 1:
-							up = false;
-							break;
-					}
-					return true;
-				}
-			}));
-			controlLayout.addView(upBtn);
-			
-			var downBtn = new android.widget.Button(ctx);
-			downBtn.setText("D");
-			downBtn.setOnTouchListener(new android.view.View.OnTouchListener({
-				onTouch: function(v, event){
-					switch(event.getAction()){
-						case 0:
-							down = true;
-							break;
-						case 1:
-							down = false;
-							break;
-					}
-					return true;
-				}
-			}));
-			controlLayout.addView(downBtn);
 			
 			controlUI = new android.widget.PopupWindow(controlLayout, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT);
 			controlUI.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.RIGHT | android.view.Gravity.TOP, 0, 50);
@@ -147,17 +120,37 @@ function attackHook(attacker, victim){
 
 function modTick(){
 	if(controlsReady==true){
+		//Start of MrARM's script
+		var playerYaw = getYaw();
+		var playerPitch = getPitch();
+		var velX = -1 * Math.sin(playerYaw / 180 * Math.PI) * ANIMAL_SPEED;
+		var velZ = Math.cos(playerYaw / 180 * Math.PI) * ANIMAL_SPEED;
+		var velY = 0;
+		var jumpVel = 0.2;
+		if(velX > 0){
+			if(getTile(Player.getX()+1, Math.floor(Entity.getY(controlledMob)), Player.getZ()) != 0)
+				velY = jumpVel;
+		}else{
+			if(getTile(Player.getX()-1, Math.floor(Entity.getY(controlledMob)), Player.getZ()) != 0)
+				velY = jumpVel;
+		}
+		if(velZ > 0){
+			if(getTile(Player.getX(), Math.floor(Entity.getY(controlledMob)), Player.getZ()+1) != 0)
+				velY = jumpVel;
+		}else{
+			if(getTile(Player.getX(), Math.floor(Entity.getY(controlledMob)), Player.getZ()-1) != 0)
+				velY = jumpVel;
+		}
+		//End of MrARM's script
 		if(forward==true){
-			setVelZ(controlledMob, -0.5);
+			setVelX(controlledMob, velX);
+			setVelZ(controlledMob, velZ);
+			setVelY(controlledMob, velY);
 		}
 		if(backward==true){
-			setVelZ(controlledMob, 0.5);
-		}
-		if(left==true){
-			setVelX(controlledMob, -0.5);
-		}
-		if(right==true){
-			setVelX(controlledMob, 0.5);
+			setVelX(controlledMob, -velX);
+			setVelZ(controlledMob, -velZ);
+			setVelY(controlledMob, velY);
 		}
 		if(up==true){
 			setVelY(controlledMob, 0.5);
@@ -166,9 +159,9 @@ function modTick(){
 			setVelY(controlledMob, -0.5);
 		}
 	}
-	if(controlsReady==true && forward==false && backward==false && left==false && right==false && up==false && down==false){
+	if(controlsReady==true && forward==false && backward==false && up==false && down==false){
 		setVelX(controlledMob, 0);
-		setVelY(controlledMob, 0);
 		setVelZ(controlledMob, 0);
+		setVelY(controlledMob, 0);
 	}
 }
