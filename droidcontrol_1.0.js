@@ -222,12 +222,12 @@ function mainMenu(){
             }));
             menuLayout.addView(itemDropBtn);
              
-            var arrowBtn = new android.widget.CheckBox(ctx);
-            arrowBtn.setTextSize(18);
-            arrowBtn.setText("Unlimited Arrows");
-            arrowBtn.setChecked(unlimitedArrowChecked);
-            arrowBtn.setLayoutParams(layoutParams);
-            arrowBtn.setOnClickListener(new android.view.View.OnClickListener({
+            var UarrowBtn = new android.widget.CheckBox(ctx);
+            UarrowBtn.setTextSize(18);
+            UarrowBtn.setText("Unlimited Arrows");
+            UarrowBtn.setChecked(unlimitedArrowChecked);
+            UarrowBtn.setLayoutParams(layoutParams);
+            UarrowBtn.setOnClickListener(new android.view.View.OnClickListener({
                 onClick: function(viewarg){
                     if(unlimitedArrow==false){
                         unlimitedArrow = true;
@@ -236,10 +236,10 @@ function mainMenu(){
                         unlimitedArrow = false;
                         unlimitedArrowChecked = false;
                     }
-                    arrowBtn.setChecked(unlimitedArrowChecked);
+                    UarrowBtn.setChecked(unlimitedArrowChecked);
                 }
             }));
-            menuLayout.addView(arrowBtn);
+            menuLayout.addView(UarrowBtn);
              
             var itemBtn = new android.widget.CheckBox(ctx);
             itemBtn.setTextSize(18);
