@@ -1,4 +1,4 @@
-/*CarbonPE - Droid Edition
+/*DroidControl Mod Client
     ~BeATz-UnKNoWN & Thecactigod     */
 var speed = 1;
 var movement = "Normal";
