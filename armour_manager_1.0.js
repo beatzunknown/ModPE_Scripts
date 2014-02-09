@@ -1,4 +1,4 @@
-/*Armour Manager ~ BeATz-UnKNoWN*/
+//Armour Manager ~ BeATz-UnKNoWN
 var starterUI, armourUI, armourSetUI;
 var armourSlot = "None";
 var armourSlot1 = "None";
