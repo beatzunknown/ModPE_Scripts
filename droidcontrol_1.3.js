@@ -1,1 +1,1562 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('j 1R=1;j 2F="2G";j 1N=1;j 4R=0;j 4M=0;j 5a=0;j 5f=0;j 1o="1";j 2Z=0;j 2n=0;j 3B=h;j 2W=h;j 2q=h;j 1J=h;j 9w=h;j 1L=h;j 1M=h;j 3G=q;j 3R=q;j 4b=q;j 3S=q;j X,Y,Z;j 3Z=q;j 4c=q;j W=10;j 1f="4T";j 1w=52;j 3C=q;j 3v=q;j 46=q;j 3K=q;j 4a=q;j 4u=q;j 3q=q;j 3b=q;j 3p=q;j 2Y=q;j 3c=q;j 3a=q;j 3Q=q;j 3m=q;j 3f=q;j 3r=q;j 1q="65";j 1r="4Z 55";j 5A=[h,1.5,0.6,0.5,2,2,0,-1,h,h,h,h,0.5,0.6,3,3,3,2,0.2,0.6,0.3,3,3,h,0.8,h,0.2,0.7,h,h,4,0,0,h,h,0.8,h,0,0,0,0,3,5,2,2,2,0,1.5,2,50,0,0,h,2,2.5,h,3,5,2.5,0,0.6,3.5,3.5,1,3,0.4,0.7,2,1,h,h,5,h,3,3,h,h,h,0.1,0.5,0.2,0.4,0.6,0,h,2,1,0.4,0.3,h,1,0.5,h,h,-1,3,h,1.5,h,h,5,0.3,1,0,0,h,2,2,1.5,h,h,2,h,2,h,h,h,h,h,h,h,h,h,h,h,h,h,0.8,h,h,h,h,h,2,2,2,h,h,2,h,0,0,h,h,h,h,h,h,h,h,h,h,h,h,0.8,0.8,2,2,h,h,h,h,h,h,h,h,h,h,h,0.5,0.1,5,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,0,3.5,50,5,0.6,0.6,5,h,h,h,h,0]j F;j 1B=0;j 3F=0;j 3z=0;j 5o=0;j 3D=0;j 5N=0;j 3y=0;j 3x=0;j 4p=0;j 3A=0;j 3E=0;j 2r=0;j 4V;j 5j;j 1c="2G";j 3h=q;j 3O=q;j 4i=q;j 4d=q;j 3W=q;j 3V=q;j 3T=q;j 43=q;j 2N=q;j 5m=0.5;j 1p="4k 4g 4t";j 59=q;j 5L=" 9Q/9E+/9F+9N/9M/v/9L+8B+9t/8S/8V/8R+8Q+8M+8L+8O+8P/8X+93/8K+8s+8n/8o/8p+8D+9m/6W/6H+6V+6R/6M+8i+8d/7L+7u/7z+7M+88/8h/8g+8f+7Z+7R/7O+t+7X/7V/8j+6P/6O++6T+6I+6F/6G+6S+7n+7g+7e/7d+7h+/7i+7m/7k/7j/71/6X+6Y/72/74+77/75/a1+9v/9u/8k/9s+9B/9A+9z/9r+9q/9j/9i/9h+9f/9g+9k/9l/9p+9o+9n/9C+9D+9U+9T/9Y/9X+A/9P/9I+9H+9G+9J+9K/9O+9e/9d/8C/8A/8Y/94+97+99+8W/8N+8T+8U+9a/9b/9c/8Z+92+8J/8t/8u+x+8v/8r/8q/8m/8l+8w+8x+8F+L+8G/8H+8I+8E+8y/c+9Z/a0/9W+9V/9R/9S++9y/9x+76+7a/6Z/70+7b/7c/7l+6E+/6J+Z+6K+6L+6U/6Q+6N/7f/7W/7o+7Y+7U/7T+7P/7Q+7S+84+8e/8a/8b/8c/+7N+7w+7x/7y/7v/7q+7p+7r+7s+7t/7A+7B/7I+7J+7K+bw+7H/7G/7C//7D+7E/7F+8z+az/bd+bc/o+l/ba== ";K 3U(I,5O){3i Q.bf(5O*I.bg().bk().bj)}K bi(){g(!59){1R=1;2F="2G";3h=q;3O=q;1o="1";2Z=0;2n=0;1B=0;3F=0;3z=0;5o=0;3D=0;5N=0;3y=0;3x=0;4p=0;3A=0;3E=0;2r=0;1c="2G";3G=q;3R=q;4b=q;3S=q;3Z=q;4c=q;W=10;1f="4T";1w=52;3C=q;3v=q;46=q;3K=q;4a=q;4u=q;3q=q;3b=q;3p=q;2Y=q;3c=q;3a=q;3Q=q;3m=q;3f=q;3r=q;1q="65";1r="4Z 55";4i=q;4d=q;3W=q;3V=q;3T=q;43=q;2N=q;1p="4k 4g 4t";3d.bh(3Y,"b8 b7",[["4o",1],["4o",1],["b0",1],["4o",1],["4o",1],["4o",1]],4w,q,0);3d.aZ(3Y,0);3d.aY(3Y,7);59=N}}K aW(){5M();5k()}K 5M(){j I=2O.2P.2U.2V.2T.2S();I.2H(C 2z.2Q.2R({2X:K(){3H{j 4z=C u.M.2v(I);4z.2M(0);j 58=u.aX.b1.b2(5L,0);j 4A=C u.M.b6(I);4A.b5(u.4B.b4.bm(58,0,58.5v));4A.1k(C u.P.1b.1i({1h:K(1j){g(1J!=h){1J.1F();1J=h}g(1L!=h){1L.1F();1L=h}g(1M!=h){1M.1F();1M=h}5U();5Q()}}));4z.V(4A);3B=C u.M.3g(4z,3U(I,50),3U(I,50));3B.3o(I.3t().3e(),u.P.1x.4f|u.P.1x.3l,6y,0)}3k(5P){3j("2J D-2w 3s 3P be 3J, 3I: "+5P)}}}))}K 5Q(){j I=2O.2P.2U.2V.2T.2S();I.2H(C 2z.2Q.2R({2X:K(){3H{j 4x=C u.M.2v(I);4x.2M(0);j 4C=C u.M.2w(I);4C.R("x");4C.1k(C u.P.1b.1i({1h:K(1j){g(3m==N&&1J==h){5t()}g(3a==N&&1L==h){5r()}g(3b==N&&1M==h){5q()}2q.1F();2W.1F()}}));4x.V(4C);2W=C u.M.3g(4x,3U(I,40),3U(I,40));2W.3o(I.3t().3e(),u.P.1x.4f|u.P.1x.3l,0,0)}3k(e){3j("2J X-2w 3s 3P be 3J, 3I: "+e)}}}))}K 5U(){j I=2O.2P.2U.2V.2T.2S();I.2H(C 2z.2Q.2R({2X:K(){3H{j 1g=C u.M.2v(I);j 5g=C u.M.br(I);j 4y=C u.M.2v(I);1g.2M(1);4y.2M(1);5g.V(1g);4y.V(5g);j 1l=C u.M.2v.2a(u.M.2y.2a.2u,u.M.2y.2a.2u);1l.bG(3U(I,15),0,0,0);j 3w=C u.M.2f(I);3w.1n(24);3w.R("bF bE");3w.1s(1l);1g.V(3w);j 1P=C u.M.1K(I);1P.1n(18);1P.R("64 bI bH");1P.1e(3R);1P.1s(1l);1P.1k(C u.P.1b.1i({1h:K(1j){g(!3G){3G=N;3R=N}w{3G=q;3R=q}1P.1e(3R)}}));1g.V(1P);j 1O=C u.M.1K(I);1O.1n(18);1O.R("bL bK");1O.1e(3S);1O.1s(1l);1O.1k(C u.P.1b.1i({1h:K(1j){g(!4b){4b=N;3S=N}w{4b=q;3S=q}1O.1e(3S)}}));1g.V(1O);j 1Y=C u.M.1K(I);1Y.1n(18);1Y.R("4s 4l");1Y.1e(4c);1Y.1s(1l);1Y.1k(C u.P.1b.1i({1h:K(1j){g(!3Z){3Z=N;4c=N}w{3Z=q;4c=q}1Y.1e(4c)}}));1g.V(1Y);j 2p=C u.M.2f(I);2p.1n(18);2p.R("4l 4s: "+1f);2p.1s(1l);2p.1k(C u.P.1b.1i({1h:K(1j){g(W==10&&1f=="4T"){W=11;1f="5T"}w g(W==11&&1f=="5T"){W=12;1f="5S"}w g(W==12&&1f=="5S"){W=13;1f="5R"}w g(W==13&&1f=="5R"){W=32;1f="4L"}w g(W==32&&1f=="4L"){W=33;1f="5K"}w g(W==33&&1f=="5K"){W=34;1f="5J"}w g(W==34&&1f=="5J"){W=35;1f="5C"}w g(W==35&&1f=="5C"){W=36;1f="4L 5B"}w g(W==36&&1f=="4L 5B"){W=10;1f="4T"}2p.R("4l 4s: "+1f)}}));1g.V(2p);j 1S=C u.M.1K(I);1S.1n(18);1S.R("bs bq");1S.1e(46);1S.1s(1l);1S.1k(C u.P.1b.1i({1h:K(1j){g(!3v){3v=N;46=N}w{3v=q;46=q;1E.5h(20)}1S.1e(46)}}));1g.V(1S);j 1U=C u.M.1K(I);1U.1n(18);1U.R("5W bp");1U.1e(4a);1U.1s(1l);1U.1k(C u.P.1b.1i({1h:K(1j){g(!3K){3K=N;4a=N}w{3K=q;4a=q}1U.1e(4a)}}));1g.V(1U);j 2C=C u.M.2f(I);2C.1n(18);2C.R("2e 5F: "+1c);2C.1s(1l);2C.1k(C u.P.1b.1i({1h:K(1j){g(1c=="2G"){1c="5y"3F=1}w g(1c=="5y"){3E=1;3F=0;1c="5z"}w g(1c=="5z"){3z=1;3E=0;1c="4e"}w g(1c=="4e"){3D=1;3z=0;1c="5D"}w g(1c=="5D"){3A=1;3D=0;1c="5E"}w g(1c=="5E"){3y=1;3A=0;1c="5I"}w g(1c=="5I"){3x=1;3y=0;1c="5H"}w g(1c=="5H"){4p=1;3x=0;1c="5G"}w g(1c=="5G"){2r=1;4p=0;1c="3d"}w g(1c=="3d"){2r=0;1c="2G"}2C.R("2e 5F: "+1c)}}));1g.V(2C);j 1X=C u.M.1K(I);1X.1n(18);1X.R("5W-bn");1X.1e(3q);1X.1s(1l);1X.1k(C u.P.1b.1i({1h:K(1j){g(!4u){4u=N;6d();3q=N}w{4u=q;5k();3q=q}1X.1e(3q)}}));1g.V(1X);j 1T=C u.M.1K(I);1T.1n(18);1T.R("bo bt");1T.1e(3p);1T.1s(1l);1T.1k(C u.P.1b.1i({1h:K(1j){g(!3b){3b=N;3p=N}w{3b=q;3p=q}1T.1e(3p)}}));1g.V(1T);j 2D=C u.M.2f(I);2D.1n(18);2D.R("6i: "+2F);2D.1s(1l);2D.1k(C u.P.1b.1i({1h:K(1j){g(1R==1){2F="bu";1R=2}w g(1R==2){b.6j(1C(),N);2F="bA";1R=0}w g(1R==0){b.6j(1C(),q);2F="2G";1R=1}2D.R("6i: "+2F)}}));1g.V(2D);j 23=C u.M.1K(I);23.1n(18);23.R("bz");23.1e(3Q);23.1s(1l);23.1k(C u.P.1b.1i({1h:K(1j){g(!3a){3a=N;3Q=N}w{2Y=q;3c=q;3a=q;3Q=q}23.1e(3Q)}}));1g.V(23);j 1Z=C u.M.1K(I);1Z.1n(18);1Z.R("b by");1Z.1e(3f);1Z.1s(1l);1Z.1k(C u.P.1b.1i({1h:K(1j){g(!3m){3m=N;3f=N}w{3m=q;3f=q}1Z.1e(3f)}}));1g.V(1Z);j 2d=C u.M.2f(I);2d.1n(18);2d.R("6k b: "+1r);2d.1s(1l);2d.1k(C u.P.1b.1i({1h:K(1j){g(1q==65&&1r=="4Z 55"){1q=80;1r="2e"}w g(1q==80&&1r=="2e"){1q=80;1r="4e 2e"}w g(1q==80&&1r=="4e 2e"){1q=81;1r="6h"}w g(1q==81&&1r=="6h"){1q=82;1r="6g"}w g(1q==82&&1r=="6g"){1q=65;1r="4Z 55"}2d.R("6k b: "+1r)}}));1g.V(2d);j 29=C u.M.1K(I);29.1n(20);29.R("bv");29.1e(3h);29.1s(1l);29.1k(C u.P.1b.1i({1h:K(1j){g(!3O){3O=N;3h=N}w{3O=q;3h=q}29.1e(3h)}}));1g.V(29);j 2m=C u.M.2f(I);2m.1n(18);2m.R("6l 6p: "+1o+" 6o");2m.1s(1l);2m.1k(C u.P.1b.1i({1h:K(1j){g(1o=="1"){1o="2";2n=0.6}w g(1o=="2"){1o="3";2n=0.7}w g(1o=="3"){1o="4";2n=0.8}w g(1o=="4"){2n=0.9;1o="5"}w g(1o=="5"){2n=1;1o="6"}w g(1o=="6"){1o="1"}2m.R("6l 6p: "+1o+" 6o")}}));1g.V(2m);j 6n="4k 4g 4t";j 3N=C u.M.2f(I);3N.R("68 69: "+6n);3N.1k(C u.P.1b.1i({1h:K(1j){g(1p=="4k 4g 4t"){1p="6m 6f"}w g(1p=="6m 6f"){1p="6e 62"}w g(1p=="6e 62"){1p="5x"}w g(1p=="5x"){1p="5Z"}w g(1p=="5Z"){1p="5Y 5X"}w g(1p=="5Y 5X"){1p="4k 4g 4t"}3N.R("68 69: "+1p);5b(1p)}}));1g.V(3N);j 3M=C u.M.2f(I);3M.1n(16);3M.R("b3 aU 2J aV ak");3M.aj(u.P.1x.ah);1g.V(3M);5e=[3w,1P,1O,1Y,2p,1S,1U,2C,1X,1T,2D,23,1Z,2d,29,2m,3N,3M]5b(1p);2q=C u.M.3g(4y,I.6b().6a().ai()/2,I.6b().6a().am());2q.an(C u.4B.as.ar(u.4B.ao.ap));2q.3o(I.3t().3e(),u.P.1x.4f|u.P.1x.3l,0,0)}3k(6q){3j("2J a2 3s 3P be 3J, 3I: "+6q)}}}))}K 5b(5w){j 5u=C u.4B.af.a7(C 2z.a6.a5(u.a3.a4.a8()+"/",5w+".a9"));4j(j c=0;c<5e.5v;c++){5e[c].ad(5u)}}K 5t(){j I=2O.2P.2U.2V.2T.2S();I.2H(C 2z.2Q.2R({2X:K(){3H{j 4D=C u.M.2v(I);4D.2M(0);j 4H=C u.M.2w(I);4H.R("x");4H.4q(C u.P.1b.4v({4m:K(P,1D){2L(1D.2K()){1u 0:3r=N;1t;1u 1:3r=q;1t}3i N}}));4D.V(4H);1J=C u.M.3g(4D,u.M.2y.2a.2u,u.M.2y.2a.2u);1J.3o(I.3t().3e(),u.P.1x.4f|u.P.1x.3l,0,ac)}3k(p){3j("2J d aa 6r 3s 3P be 3J, 3I: "+p)}}}))}K 5r(){j I=2O.2P.2U.2V.2T.2S();I.2H(C 2z.2Q.2R({2X:K(){3H{j 4h=C u.M.2v(I);4h.2M(1);j 4I=C u.M.2w(I);4I.R("↑");4I.4q(C u.P.1b.4v({4m:K(P,1D){2L(1D.2K()){1u 0:2Y=N;1t;1u 1:2Y=q;1t}3i N}}));4h.V(4I);j 4U=C u.M.2w(I);4U.R("↓");4U.4q(C u.P.1b.4v({4m:K(P,1D){2L(1D.2K()){1u 0:3c=N;1t;1u 1:3c=q;1t}3i N}}));4h.V(4U);1L=C u.M.3g(4h,u.M.2y.2a.2u,u.M.2y.2a.2u);1L.3o(I.3t().3e(),u.P.1x.4f|u.P.1x.3l,0,50)}3k(5s){3j("2J 2Z 6r 3s 3P be 3J, 3I: "+5s)}}}))}K 5q(){j I=2O.2P.2U.2V.2T.2S();I.2H(C 2z.2Q.2R({2X:K(){3H{j 3u=C u.M.2v(I);3u.2M(1);j 4Y=C u.M.2w(I);4Y.R("↑");4Y.4q(C u.P.1b.4v({4m:K(v,1D){g(!2N){2L(1D.2K()){1u 0:4d=N;1t;1u 1:4d=q;1t}}w{2L(1D.2K()){1u 0:3V=N;1t;1u 1:3V=q;1t}}3i N}}));3u.V(4Y);j 2I=C u.M.at(I);2I.1e(43);2I.R("∞");2I.1k(C u.P.1b.1i({1h:K(1j){g(!2N){2N=N;43=N}w{2N=q;43=q}2I.1e(43);2I.R("∞")}}));3u.V(2I);j 4X=C u.M.2w(I);4X.R("↓");4X.4q(C u.P.1b.4v({4m:K(v,1D){g(!2N){2L(1D.2K()){1u 0:3W=N;1t;1u 1:3W=q;1t}}w{2L(1D.2K()){1u 0:3T=N;1t;1u 1:3T=q;1t}}3i N}}));3u.V(4X);1M=C u.M.3g(3u,u.M.2y.2a.2u,u.M.2y.2a.2u);1M.3o(I.3t().3e(),u.P.1x.aN|u.P.1x.3l,0,25)}3k(6w){3j("2J aM aL 3s 3P be 3J, 3I: "+6w)}}}))}K aJ(){j I=2O.2P.2U.2V.2T.2S();I.2H(C 2z.2Q.2R({2X:K(){g(3B!=h){3B.1F();3B=h}g(2W!=h){2W.1F();2W=h}g(2q!=h){2q.1F();2q=h}g(1J!=h){1J.1F();1J=h}g(1L!=h){1L.1F();1L=h}g(1M!=h){1M.1F();1M=h}}}))}K aK(x,y,z,6A){j 2x=s.6s(x,y,z);j f=s.1a(x,y,z);g(3G){g(f==1&&a()==O||f==1&&a()==H||f==1&&a()==J||f==1&&a()==E||f==1&&a()==G||f==4&&a()==O||f==4&&a()==H||f==4&&a()==J||f==4&&a()==E||f==4&&a()==G){s.B(x,y,z,0.5,4,63)}w g(f==1&&a()!=O&&a()!=H&&a()!=J&&a()!=E&&a()!=G||f==4&&a()!=O&&a()!=H&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,4,64)}g(f==2||f==3){s.B(x,y,z,0.5,3,63)}g(f==5||f==6||f==12||f==13){s.B(x,y,z,0.5,f,63,2x)}g(f==14&&a()==H||f==14&&a()==E||f==14&&a()==G){s.B(x,y,z,0.5,14,63)}w g(f==14&&a()!=H&&a()!=E&&a()!=G){s.B(x,y,z,0.5,14,64)}g(f==15&&a()==H||f==15&&a()==J||f==15&&a()==E||f==15&&a()==G){s.B(x,y,z,0.5,15,63)}w g(f==15&&a()!=H&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,15,64)}g(f==16&&a()==O||f==16&&a()==H||f==16&&a()==J||f==16&&a()==E||f==16&&a()==G){s.B(x,y,z,0.5,6t,63)}w g(f==16&&a()!=O&&a()!=H&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,6t,64)}g(f==17){s.B(x,y,z,0.5,17,63,2x)}g(f==18&&a()==2g){s.B(x,y,z,0.5,18,63)}w g(f==18&&a()!=2g){s.B(x,y,z,0.5,18,64)}g(f==19||f==20){s.B(x,y,z,0.5,f,63,2x)}g(f==21&&a()==H||f==21&&a()==J||f==21&&a()==E||f==21&&a()==G){s.B(x,y,z,0.5,21,63)}w g(f==21&&a()!=H&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,21,64)}g(f==22&&a()==H||f==22&&a()==J||f==22&&a()==E||f==22&&a()==G){s.B(x,y,z,0.5,22,63)}w g(f==22&&a()!=H&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,22,64)}g(f==24&&a()==O||f==24&&a()==H||f==24&&a()==J||f==24&&a()==E||f==24&&a()==G){s.B(x,y,z,0.5,24,63)}w g(f==24&&a()!=O&&a()!=H&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,24,64)}g(f==26){s.B(x,y,z,0.5,26,63,2x)}g(f==27&&a()==O||f==27&&a()==H||f==27&&a()==J||f==27&&a()==E||f==27&&a()==G){s.B(x,y,z,0.5,27,63)}w g(f==27&&a()!=O&&a()!=H&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,27,64)}g(f==30&&a()==2g){s.B(x,y,z,0.5,6z,63)}w g(f==30&&a()!=2g){s.B(x,y,z,0.5,6z,64)}g(f==31&&a()==2g||f==32&a()==2g){s.B(x,y,z,0.5,f,63,2x)}w g(f==31&&a()!=2g||f==32&&a()!=2g){s.B(x,y,z,0.5,f,64,2x)}g(f==37||f==38||f==39||f==40){s.B(x,y,z,0.5,f,63)}g(f==41&&a()==H||f==41&&a()==E||f==41&&a()==G){s.B(x,y,z,0.5,41,63)}w g(f==41&&a()!=H&&a()!=E&&a()!=G){s.B(x,y,z,0.5,41,64)}g(f==42&&a()==H||f==42&&a()==J||f==42&&a()==E||f==42&&a()==G){s.B(x,y,z,0.5,42,63)}w g(f==42&&a()!=H&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,42,64)}g(f==44&&a()==H||f==44&&a()==O||f==44&&a()==J||f==44&&a()==E||f==44&&a()==G){s.B(x,y,z,0.5,44,63)}w g(f==44&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,44,64)}g(f==45&&a()==O||f==45&&a()==H||f==45&&a()==J||f==45&&a()==E||f==45&&a()==G){s.B(x,y,z,0.5,45,63)}w g(f==45&&a()!=O&&a()!=H&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,45,64)}g(f==47){s.B(x,y,z,0.5,aD,61)}g(f==48&&a()==O||f==48&&a()==H||f==48&&a()==J||f==48&&a()==E||f==48&&a()==G){s.B(x,y,z,0.5,48,63)}w g(f==48&&a()!=O&&a()!=H&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,48,64)}g(f==49&&a()==E||f==6v&&a()==E){s.B(x,y,z,0.5,49,63)}w g(f==49&&a()!=E||f==6v&&a()!=E){s.B(x,y,z,0.5,49,64)}g(f==50||f==53||f==54){s.B(x,y,z,0.5,f,63)}g(f==56&&a()==H||f==57&&a()==H||f==56&&a()==E||f==57&&a()==E||f==56&&a()==G||f==57&&a()==G){s.B(x,y,z,0.5,f,63)}w g(f==56&&a()!=H&&a()!=E&&a()!=G||f==57&&a()!=H&&a()!=E&&a()!=G){s.B(x,y,z,0.5,f,64)}g(f==61&&a()==O||f==61&&a()==H||f==61&&a()==J||f==61&&a()==E||f==61&&a()==G){s.B(x,y,z,0.5,61,63)}w g(f==61&&a()!=O&&a()!=H&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,61,64)}g(f==63||f==64||f==65||f==66){s.B(x,y,z,0.5,f,63)}g(f==67&&a()==O||f==67&&a()==H||f==67&&a()==J||f==67&&a()==E||f==67&&a()==G){s.B(x,y,z,0.5,67,63)}w g(f==67&&a()!=O&&a()!=H&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,67,64)}g(f==73&&a()==H||f==73&&a()==E||f==73&&a()==G){s.B(x,y,z,0.5,6B,63)}w g(f==73&&a()!=H&&a()!=E&&a()!=G){s.B(x,y,z,0.5,6B,64)}g(f==78&&a()==3n||f==78&&a()==4J||f==78&&a()==4N||f==78&&a()==4Q||f==78&&a()==4P){s.B(x,y,z,0.5,4O,63)}w g(f==78&&a()!=3n&&a()!=4J&&a()!=4N&&a()!=4Q&&a()!=4P){s.B(x,y,z,0.5,4O,64)}g(f==80&&a()==3n||f==80&&a()==4J||f==80&&a()==4N||f==80&&a()==4Q||f==80&&a()==4P){s.B(x,y,z,0.5,4O,60)}w g(f==80&&a()!=3n&&a()!=4J&&a()!=4N&&a()!=4Q&&a()!=4P){s.B(x,y,z,0.5,4O,64)}g(f==81||f==82||f==83||f==85||f==86||f==89||f==91||f==96||f==bb||f==ag){s.B(x,y,z,0.5,f,63)}g(f==87&&a()==H||f==87&&a()==O||f==87&&a()==J||f==87&&a()==E||f==87&&a()==G){s.B(x,y,z,0.5,87,63)}w g(f==87&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,87,64)}g(f==98&&a()==H||f==98&&a()==O||f==98&&a()==J||f==98&&a()==E||f==98&&a()==G){s.B(x,y,z,0.5,98,63)}w g(f==98&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,98,64)}g(f==2h&&a()==H||f==2h&&a()==O||f==2h&&a()==J||f==2h&&a()==E||f==2h&&a()==G){s.B(x,y,z,0.5,2h,63)}w g(f==2h&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,2h,64)}g(f==bl){s.B(x,y,z,0.5,3L,57)}g(f==2o&&a()==H||f==2o&&a()==O||f==2o&&a()==J||f==2o&&a()==E||f==2o&&a()==G){s.B(x,y,z,0.5,2o,63)}w g(f==2o&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,2o,64)}g(f==2l&&a()==H||f==2l&&a()==O||f==2l&&a()==J||f==2l&&a()==E||f==2l&&a()==G){s.B(x,y,z,0.5,2l,63)}w g(f==2l&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,2l,64)}g(f==2i&&a()==H||f==2i&&a()==O||f==2i&&a()==J||f==2i&&a()==E||f==2i&&a()==G){s.B(x,y,z,0.5,2i,63)}w g(f==2i&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,2i,64)}g(f==2j&&a()==H||f==2j&&a()==O||f==2j&&a()==J||f==2j&&a()==E||f==2j&&a()==G){s.B(x,y,z,0.5,2j,63)}w g(f==2j&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,2j,64)}g(f==2k&&a()==H||f==2k&&a()==O||f==2k&&a()==J||f==2k&&a()==E||f==2k&&a()==G){s.B(x,y,z,0.5,2k,63)}w g(f==2k&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,2k,64)}g(f==bJ||f==bB||f==bx||f==aq||f==ae||f==au||f==6y||f==4w){s.B(x,y,z,0.5,f,63,2x)}g(f==2E&&a()==H||f==2E&&a()==O||f==2E&&a()==J||f==2E&&a()==E||f==2E&&a()==G){s.B(x,y,z,0.5,2E,63)}w g(f==2E&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,2E,64)}g(f==2A&&a()==H||f==2A&&a()==O||f==2A&&a()==J||f==2A&&a()==E||f==2A&&a()==G){s.B(x,y,z,0.5,2A,63)}w g(f==2A&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,2A,64)}g(f==2t&&a()==H||f==2t&&a()==O||f==2t&&a()==J||f==2t&&a()==E||f==2t&&a()==G){s.B(x,y,z,0.5,2t,63)}w g(f==2t&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,2t,64)}g(f==2s&&a()==H||f==2s&&a()==O||f==2s&&a()==J||f==2s&&a()==E||f==2s&&a()==G){s.B(x,y,z,0.5,2s,63)}w g(f==2s&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,2s,64)}g(f==3X&&a()==H||f==3X&&a()==O||f==3X&&a()==J||f==3X&&a()==E||f==3X&&a()==G){s.B(x,y,z,0.5,6C,63)}w g(f==3X&&a()!=H&&a()!=O&&a()!=J&&a()!=E&&a()!=G){s.B(x,y,z,0.5,6C,64)}g(f==3Y){s.B(x,y,z,0,4w,64)}}}K aO(d){g(b.5l(d)==80){1B=1;F=d}g(b.5l(d)==80&&4b==N){aP(aQ,1)}}K aI(d){j 4r=1a(b.n(d),b.k(d)-1,b.r(d));j aE=1a(b.n(d),b.k(d),b.r(d));j S=b.n(d);j T=b.k(d);j U=b.r(d);g(b.5l(d)==80){g(3F==1){aC(b.n(d),b.k(d)-1,b.r(d),4)}g(3z==1){m(b.n(d),b.k(d),b.r(d),51);m(b.n(d)+1,b.k(d),b.r(d),51);m(b.n(d)-1,b.k(d),b.r(d),51);m(b.n(d),b.k(d),b.r(d)+1,51);m(b.n(d),b.k(d),b.r(d)-1,51);m(b.n(d)+1,b.k(d),b.r(d)+1,51);m(b.n(d)-1,b.k(d),b.r(d)-1,51);m(b.n(d)+1,b.k(d),b.r(d)-1,51);m(b.n(d)-1,b.k(d),b.r(d)+1,51);m(b.n(d)+2,b.k(d),b.r(d),51);m(b.n(d)-2,b.k(d),b.r(d),51);m(b.n(d),b.k(d),b.r(d)+2,51);m(b.n(d),b.k(d),b.r(d)-2,51);5o==1}g(3D==1){al(1C(),b.n(d),b.k(d)+2,b.r(d))}g(3y==1){m(b.n(d),b.k(d),b.r(d),9);m(b.n(d),b.k(d)+1,b.r(d),9);m(b.n(d),b.k(d)+2,b.r(d),9);m(b.n(d)+1,b.k(d),b.r(d),9);m(b.n(d)+2,b.k(d),b.r(d),9);m(b.n(d)-1,b.k(d),b.r(d),9);m(b.n(d)-2,b.k(d),b.r(d),9);m(b.n(d),b.k(d)+3,b.r(d),9);m(b.n(d)+3,b.k(d),b.r(d),9);m(b.n(d)-3,b.k(d),b.r(d),9);m(b.n(d),b.k(d),b.r(d)+1,9);m(b.n(d),b.k(d),b.r(d)-1,9);m(b.n(d),b.k(d),b.r(d)+2,9);m(b.n(d),b.k(d),b.r(d)-2,9);m(b.n(d),b.k(d),b.r(d)+3,9);m(b.n(d),b.k(d),b.r(d)-3,9)}g(3x==1){g(1a(b.n(d),b.k(d),b.r(d))==8||1a(b.n(d),b.k(d),b.r(d))==9){m(S,T,U,79);m(S+1,T,U,79);m(S-1,T,U,79);m(S,T,U+1,79);m(S,T,U-1,79);m(S+1,T,U+1,79);m(S-1,T,U-1,79);m(S+1,T,U-1,79);m(S-1,T,U+1,79);m(S+2,T,U,79);m(S-2,T,U,79);m(S,T,U+2,79);m(S,T,U-2,79)}g(4r!=8&&4r!=9){m(S,T,U,79)}w g(4r==8||4r==9){g(1a(b.n(d),b.k(d),b.r(d))==0){m(S,T-1,U,79);m(S+1,T-1,U,79);m(S-1,T-1,U,79);m(S,T-1,U+1,79);m(S,T-1,U-1,79);m(S+1,T-1,U+1,79);m(S-1,T-1,U-1,79);m(S+1,T-1,U-1,79);m(S-1,T-1,U+1,79);m(S+2,T-1,U,79);m(S-2,T-1,U,79);m(S,T-1,U+2,79);m(S,T-1,U-2,79)}}}g(3A==1){m(b.n(d),b.k(d),b.r(d),10);m(b.n(d),b.k(d)+1,b.r(d),10);m(b.n(d),b.k(d)+2,b.r(d),10);m(b.n(d)+1,b.k(d),b.r(d),10);m(b.n(d)+2,b.k(d),b.r(d),10);m(b.n(d)-1,b.k(d),b.r(d),10);m(b.n(d)-2,b.k(d),b.r(d),10);m(b.n(d),b.k(d)+3,b.r(d),10);m(b.n(d)+3,b.k(d),b.r(d),10);m(b.n(d)-3,b.k(d),b.r(d),10);m(b.n(d),b.k(d),b.r(d)+1,10);m(b.n(d),b.k(d),b.r(d)-1,10);m(b.n(d),b.k(d),b.r(d)+2,10);m(b.n(d),b.k(d),b.r(d)-2,10);m(b.n(d),b.k(d),b.r(d)+3,10);m(b.n(d),b.k(d),b.r(d)-3,10)}g(3E==1){m(b.n(d),b.k(d),b.r(d),30);m(b.n(d)+1,b.k(d),b.r(d),30);m(b.n(d)-1,b.k(d),b.r(d),30);m(b.n(d),b.k(d),b.r(d)+1,30);m(b.n(d),b.k(d),b.r(d)-1,30);m(b.n(d)+1,b.k(d),b.r(d)+1,30);m(b.n(d)-1,b.k(d),b.r(d)-1,30);m(b.n(d)+1,b.k(d),b.r(d)-1,30);m(b.n(d)-1,b.k(d),b.r(d)+1,30);m(b.n(d),b.k(d)+1,b.r(d),30);m(b.n(d)+1,b.k(d)+1,b.r(d),30);m(b.n(d)-1,b.k(d)+1,b.r(d),30);m(b.n(d),b.k(d)+1,b.r(d)+1,30);m(b.n(d),b.k(d)+1,b.r(d)-1,30);m(b.n(d)+1,b.k(d)+1,b.r(d)+1,30);m(b.n(d)-1,b.k(d)+1,b.r(d)-1,30);m(b.n(d)+1,b.k(d)+1,b.r(d)-1,30);m(b.n(d)-1,b.k(d)+1,b.r(d)+1,30);m(b.n(d),b.k(d)+2,b.r(d),30);m(b.n(d)+1,b.k(d)+2,b.r(d),30);m(b.n(d)-1,b.k(d)+2,b.r(d),30);m(b.n(d),b.k(d)+2,b.r(d)+1,30);m(b.n(d),b.k(d)+2,b.r(d)-1,30);m(b.n(d)+1,b.k(d)+2,b.r(d)+1,30);m(b.n(d)-1,b.k(d)+2,b.r(d)-1,30);m(b.n(d)+1,b.k(d)+2,b.r(d)-1,30);m(b.n(d)-1,b.k(d)+2,b.r(d)+1,30)}g(2r==1){m(b.n(d),b.k(d),b.r(d),4V,5j)}}}K aF(x,y,z,6D,4S,6A){g(6D==aG&&2r==1){4V=4S;5j=s.6s(x,y,z);5p("aB 2r F aA "+4V+".")}g(4S==4w&&3Z==N){5i();m(x,y,z,3Y);X=x;Y=y;Z=z;3C=N;5p("4s 4l 6u aw")}g(4S==3Y&&3C==N){m(x,y,z,4w);3C=q;5p("4s 4l 6u av");1w=52;5i()}}K ax(){g(1R==2){g(1N==1){5a=5d();5f=5n();1N=1N+1}w g(1N==3){1N=1;4R=5d()-5a;4M=5n()-5f;2c(1C(),4R);1V(1C(),4M);4R=0;4M=0}g(1N!=1){1N=1N+1}}g(1o!="1"&&b.ay(1C())>0&&2Z==0){1v(1C(),2n);2Z=1}w g(1a(5d(),aH()-2,5n())!=0&&2Z==1){2Z=0}g(3F==1&&1B==1||3z==1&&1B==1||3y==1&&1B==1||3x==1&&1B==1||3A==1&&1B==1||3E==1&&1B==1||2r==1&&1B==1){g(1a(b.n(F),b.k(F)-1,b.r(F))!=0||1a(b.n(F),b.k(F)+1,b.r(F))!=0||1a(b.n(F)+1,b.k(F),b.r(F))!=0||1a(b.n(F)-1,b.k(F),b.r(F))!=0||1a(b.n(F),b.k(F),b.r(F)+1)!=0||1a(b.n(F),b.k(F),b.r(F)-1)!=0){b.5c(F)}}g(3D==1&&1B==1){g(1a(b.n(F),b.k(F)-1,b.r(F))!=0||1a(b.n(F),b.k(F)+1,b.r(F))!=0||1a(b.n(F)+1,b.k(F),b.r(F))!=0||1a(b.n(F)-1,b.k(F),b.r(F))!=0||1a(b.n(F),b.k(F),b.r(F)+1)!=0||1a(b.n(F),b.k(F),b.r(F)-1)!=0){g(1a(b.n(F),b.k(F),b.r(F))!=95&&b.k(F)>1){b.5c(F)}}}g(4p==1&&1B==1){g(1a(b.n(F),b.k(F)-1,b.r(F))!=0||1a(b.n(F),b.k(F)+1,b.r(F))!=0||1a(b.n(F)+1,b.k(F),b.r(F))!=0||1a(b.n(F)-1,b.k(F),b.r(F))!=0||1a(b.n(F),b.k(F),b.r(F)+1)!=0||1a(b.n(F),b.k(F),b.r(F)-1)!=0){m(b.n(F),b.k(F),b.r(F),89);b.5c(F)}}g(3C){1w--}g(1w==aR){s.28(X+4,Y,Z+4,W)}g(1w==aS){s.28(X+4,Y,Z-4,W)}g(1w==aT){s.28(X-4,Y,Z+4,W)}g(1w==80){s.28(X-4,Y,Z-4,W)}g(1w==60){s.28(X+4,Y,Z,W)}g(1w==40){s.28(X,Y,Z+4,W)}g(1w==20){s.28(X,Y+1,Z,W)}g(1w==0){1w=52}g(3v){1E.5h(ab)}g(3r==N&&4n(1C())>40){j 1H=b.1G(1E.4W());j 1W=b.4n(1E.4W());4K=Q.2B((1W-1d)/1d*Q.1m);1Q=Q.2B(1H/1d*Q.1m)*Q.1I((1W-1d)/1d*Q.1m);2b=-1*Q.1I(1H/1d*Q.1m)*Q.1I((1W-1d)/1d*Q.1m);d=s.28(1E.n()+1Q*2,1E.k(),1E.r()+2b*2,1q);g(1q==80&&1r=="4e 2e"){b.6x(d,60)}2c(d,1Q*2);1v(d,4K);1V(d,2b*2)}g(3r==N&&4n(1C())<40){j 1H=b.1G(1E.4W());j 1W=b.4n(1E.4W());4K=Q.2B((1W-1d)/1d*Q.1m);1Q=Q.2B(1H/1d*Q.1m)*Q.1I((1W-1d)/1d*Q.1m);2b=-1*Q.1I(1H/1d*Q.1m)*Q.1I((1W-1d)/1d*Q.1m);d=s.28(1E.n()+1Q*2,1E.k()+1,1E.r()+2b*2,1q);g(1q==80&&1r=="4e 2e"){b.6x(d,60)}2c(d,1Q*2);1v(d,4K);1V(d,2b*2)}g(2Y){1v(1C(),0.5)}g(3c){1v(1C(),-0.5)}g(3a==N&&2Y==q&&3c==q){1v(1C(),0)}g(4i){j 1H=1G();j 1W=4n();bC(1A,1H,0);j 1Q=-1*Q.2B(1H/1d*Q.1m)*5m;j 2b=Q.1I(1H/1d*Q.1m)*5m;g(4d){2c(1A,1Q);1V(1A,2b);1v(1A,0)}g(3W){2c(1A,-1Q);1V(1A,-2b);1v(1A,0)}g(3V){1v(1A,0.5)}g(3T){1v(1A,-0.5)}}g(4i==N&&4d==q&&3W==q&&3V==q&&3T==q){2c(1A,0);1V(1A,0);1v(1A,0)}}K bD(6c,1y){g(3O){g(1G()<0){j 1z=1G()+90;4j(4G=0;1z<0;4G++){1z+=3L}x=Q.1I(1z*(Q.1m/1d));z=Q.2B(1z*(Q.1m/1d));2c(1y,x*3);1v(1y,1);1V(1y,z*3)}w g(1G()>0&&1G()<3L){j 1z=1G()+90;4F=Q.1I(1z*(Q.1m/1d));4E=Q.2B(1z*(Q.1m/1d));2c(1y,4F*3);1v(1y,1);1V(1y,4E*3)}w g(1G()>=3L){j 1z=1G()+90;4j(4G=0;1z>=3L;4G++){1z-=3L}4F=Q.1I(1z*(Q.1m/1d));4E=Q.2B(1z*(Q.1m/1d));2c(1y,4F*3);1v(1y,1);1V(1y,4E*3)}}g(3K){b.5h(1y,0)}g(3b){5i();b9(6c,1y);1A=1y;4i=N}}K 6d(){4j(i=0;i<3n;i++){3d.5V(i,0)}}K 5k(){4j(i=0;i<3n;i++){3d.5V(i,5A[i])}}',62,730,'||||||||||getCarriedItem|Entity||entity||tile|if|null||var|getY||setTile|getX|||false|getZ|Level||android||else|||||dropItem|new||278|arrow|285|257|ctx|274|function||widget|true|270|view|Math|setText|arrowX|arrowY|arrowZ|addView|spawnType||||||||||||||getTile|View|typeOfArrow|180|setChecked|spawnName|menuLayout|onClick|OnClickListener|viewarg|setOnClickListener|layoutParams|PI|setTextSize|jumpHeight|fontType|entityType|entityName|setLayoutParams|break|case|setVelY|spawnCount|Gravity|victim|hit|controlledMob|ground|getPlayerEnt|event|Player|dismiss|getYaw|playerYaw|cos|gunUI|CheckBox|flyUI|controlUI|shouldRun|unlimitedArrowBtn|itemDropBtn|velX|speed|modeBtn|saddleBtn|instaKillBtn|setVelZ|playerPitch|instantBtn|farmBtn|entityGunBtn||||flyBtn|||||spawnMob|knockBackBtn|LayoutParams|velZ|setVelX|entityBtn|Arrow|TextView|359|101|112|114|128|109|jumpBtn|jumpVel|108|animalBtn|carbonPE|block|173|156|WRAP_CONTENT|LinearLayout|Button|data|RelativeLayout|java|155|sin|arrowBtn|speedBtn|139|movement|Normal|runOnUiThread|middleBtn|The|getAction|switch|setOrientation|verticalMovement|com|mojang|lang|Runnable|get|currentMainActivity|minecraftpe|MainActivity|closeUI|run|flyUp|jump|||||||||||flyReady|saddleUp|flyDown|Block|getDecorView|gunChecked|PopupWindow|hitChecked|return|print|catch|TOP|gunReady|256|showAtLocation|saddleChecked|instantChecked|gunEngaged|could|getWindow|controlLayout|godMode|heading|ice|water|fire|lava|starterUI|farmActive|teleport|web|explosive|itemDrop|try|because|displayed|instaKill|360|maker|fontScroll|knockBack|not|flyChecked|itemDropChecked|unlimitedArrowChecked|down|dip2px|up|backward|244|250|farmReady||||verticalDIRchecked|||modeChecked||||killChecked|unlimitedArrow|farmChecked|forward|Fire|RIGHT|Sans|flyLayout|controlsReady|for|Comic|Farm|onTouch|getPitch|reactor_core_stage_x|light|setOnTouchListener|underArrow|Animal|MS|instant|OnTouchListener|247|closeLayout|menuLayout1|layout|menuBtn|graphics|closeBtn|gLayout|ZVel|XVel|go|gunBtn|upBtn|269|velY|Zombie|Zdiff|273|332|284|277|Xdiff|blockId|Chicken|downBtn|getBlock|getEntity|backwardBtn|forwardBtn|Primed|||160|||TNT|||dImage|initialised|Xpos|setFont|remove|getPlayerX|menuComponents|Zpos|menuScroll|setHealth|preventDefault|getBlockData|defaultDestroy|getEntityTypeId|ANIMAL_SPEED|getPlayerZ|onFire|clientMessage|mobControls|flyButton|prob|gunButton|font|length|fontName|Archangelsk|Explosive|Web|defaultDestroyTime|Pigman|Spider|Teleporting|Lava|Type|Light|Ice|Water|Skeleton|Creeper|dButton|starter|canTP|dips|err|close|Sheep|Pig|Cow|mainMenu|setDestroyTime|Insta|Cooky|Choco|Broadway|||Kid||||||Current|Font|getDefaultDisplay|getWindowManager|attacker|instaDestroy|Apple|Crystal|Egg|Snowball|Speed|setSneaking|Equipped|Jump|DS|currentFont|Blocks|Height|error|button|getData|263|has|246|problem|setFireTicks|245|287|side|331|457|itemId|Nmy|w4|KhieRPfNwWYzCFAWVqyXxnn81fj9Q3SFiHY3iNnoEha47kj0MYtp|4DMGG1MRoxxVRq5RJq5JKshLBbtkiv1XbIGk5laVhFMOKtnCcfmdsVs454xLPGQHAPUB|Rlj6ZWnfCRYWlmJGB6cyKPAM0Dpsa86392GnPgiXJWVIHSwnuaVQ9kXGxuypaYmm4B9dbTrQ19xtPDJ5Bp0m2e8RD4PU6tfRkhthzv7v|kaO3J7Pn|n146PdshCeHhbrPFO5uHdtMs|ew30kmIf|ka|Cf|3WTD97qqEufzSHJ1u7JAfvX8b7|vp7|4U2NIiu7aV8v7KDJxr6GLOqoy9QWqixor0lfLE6LOmry3TCcF4PQzgGGbECYpWI1TptgXN410PXx5n5Gs8UdnSXbY5M0qrHFf3|rqkhKmyTGE6VEgNUrL2lxDnR70iOVJn4eYS8yj3MXkdmL7I7Xo03W1C1lxbq9QaQa08MgvILEMlpxTUZGhpZ3X2hS1Ly7hsrTF242AWN|J02QCln4dr0uVFewe8Q8vTK2Z804pcAEmKhPjbs5MrOftsrqXfXBGqSRIKy5JgFAN49nScIXMRevOAtRGarApTLoc|pqsiJE|wF8Ose8SsRa|oBdYDaucDP9Uq5LS07PeuYOL2sc8enlZXszwI1WQtDfAvPXQEZec0tZ|FBTl33w1HHc94Ro62aUUwNBxH0HofvH0L5g|dacW|c3jYdCq694ZI|yW7NTDReoxdkboBcnYK9zVu6tKhiv1G7tG2GzxPcadLzZYF|Atxt3r|wU8BpA1f|AOnklpw33TIEJN5BpZtZXZEVCK||lEcoljK8LvAowSWn9O6uN6R2SDBiCHmx7fS3nS0x2aYQqy|g8|HF8Z5KN2d7fpLZDCeQWAECy4Fk4JMA2TvAJevg9o29DNnc25CtffTvOgd7T815FJr7|DhNUj62SgElJsMuV|||Cg|b3t1f|8flKe7952CZixMRUvDKqTFu2YeyuAUVaxkUbe9vyIH3XfIVqgq|GF8aYJjqAOfvvShUWRWptAkrYmelYfXhwsRQKgkUAbhIMS4dO|GMJsGecSyUBQHhNnSUOU|Gzk1wNTo4xZh1K0LkWKHHYd2Qv8GzKmoU2HV4e31S53jHU|mUWAsv7MGVYDfXe0djSpmnKwsNPSAJ9jAVYdJjEnQ8v6b6qrVUpritrfAl54wy1pTXHv4BHp6pH0eJesjlRleqAiSVA8saJjKd5hHhUDaEFTqbdD8H0mQYZe0RXhauJhVMr9yIttqGIHcD|pr2zZB0Vbk0i4o83qji0fW1dIkobxTxlVSZC4sOruaehDjIwAagvnB9|sxTgJescfsVc0tbGxN6OVS64iVNNbImfbuGRDHU1mVFVkMULviyhN1uNzt1J2Fh|fZOkyTp7K|lDS|29nfuLahlzE2qqRSzKfozr86kZQX2981inzTX|GLuXyfe|YWe|M7c|d2wqEziMxDGCYhj2aC2IimSnZEadtQvM|6TxD0nfbcfc5OhZyj4RdVuqdqznnPw4u7qvi1D9JxFXXVZgDXlM4Qen|YZ|Jywjx9ZBklGP9sN4oB7A5oPNMLBVqX7iSV|7ScgulmToDWq1r6KVujfjHKhMS26vplPfXUz|o7LzxcSVVVldX5UgtXc6C0PE6uhyFx44g3FIRbrwfrqUdSSithODdQoDmC7e8yewBkRPIgYsN4ImmJOKSE4jlUWWc0qqYXd4qYd8IAh0hpAnQ0Gd5Tr4KUBZ48eUAy8v|EtPeRdQJi7BTpmfOXmSYnnl99wi5|WJwyfG1f48wceGFtH132DndLEp4nt1JlUktNpsNLsxDjSR102THEkIOjXHJ4rEu|hhdHN1UyA5|1YwkNwp6l|ruBstDFU7bczQp1R3G15Ht8XB4r57iVwL|tq6ev6G1lr|unXl|McATtoE14b|b9zQAkJURnjloToIdZ2HiTTS|y5WGmYrDxv4gE2E5hkywJs8WkEkjD|BkiZJvKzgGL433OZ4WZ6iJNiWJAUFzkSY7wzgek1PvM7EuA4ho5J4u|vJMHk5c7R|UyAXOoYaldGKJMR9Bw8YQgAmKS3ObS7rPifOysPnWN|VUf016S0sd1kRZXb|CgyTYk3FVZmP5go8Ak5exT0PR|vzM8m2eOz9QPtw5|zix5RRli|UbHxj|uCFiu1EcmVV|xrnkWhOXHIGwgS85pMHTtsyQIrYJGM0QagwwfEiggnfybkvJr0O1Hqfqa|VfgB1pkzZPHAAgq9naUo9nnvfSja97BAfMgQ6a2xnFmN0PWw1Ojm6gyAv3Ph201OYLwOz|VjTvOu|Ty6qt8O7jgAGwIDB3brusrYta1BP1tfO|aAAMv1PMQ|eilUXVS9iYB6yC0QD7KK4V5tmz|kjPHX85Mwt57kL71peLetabQqYnu6fxuVXft9|fgW5dBEyUqN1WVpN7Y8xDAsqpzUDgEeAJ3zkXsS90uwqzpmbI9Sbq0BkdYgq25CDFxoZcjIWOVNbk7QGumyJ1OSrMPXGhxWd3fDOPwDmDkPtNjJ0kz01Rp8uLdySASKL4e64Z2w|kkhw7u4spBwbaKnXwG48D0QCZJjAmmIkSeS2qlTdg40stf2RF4gyTdj4qMQvzNfx3azuy7zQHQ9wmsDvHIhEXuUDz3y4zi3|a6z|thfspLg0Xn|yVGl92R6m|||||CB3Fd0u7aCcDn7ezhXl2y3vGmG||||uF||oKOuzOlt|JjQrE49auQ1gNTTPnvM6a7tbVHm|N0|FwZCAJqAOEVA|H61tWdNf7BL|UISBzF82EQ|V0|zuZWVfeuCNUmGd74OgTcQbj|IeClQDaMVKQEUf|FzUsPfBbc4BeYAgxTEr5K5ZiB|4P1YgOHFXoql888wyKXbJEPLFt4WoycfaIyqhXzbiYQ|cl9HG1hY1e4L7e5nskSP9DJkCEo1eto3DiwynWJ|fNfonDYYbfxQhNVYfzmG6tUr2CmRz9vl9YoOqf2CN8l5nhAJMKxu24|ZHEFNRhEXIDi81TBvLQx2PXoL7X0wdfqaecuQnF2jCHS2CUZeL6ACaRG6vJ1NQ1QZUUVNSepnOOXqWWc28eUdqwa|oJzydAXnPNHlnIsHV|asWb6K0rKogrK2S|C2DuSVh|iI|ZeD4Vrv2xq7q|LPen3HoQxpLirZMvASpV7V5hvXQf6aP|kxOWDAJHZwEeFJB1eGYnyTqNNinaewmLEUxW2J|uUV4sOtKgjtIpsFC0wPk7PtuSYxVciKfs43ykaBghhQtVBjg|budFhuTUTPD8L4G1Erox07cmBx|XfwDSP7OlpSPtAh7St7JB|hZUWBsiazrp80UWXlR31TYrNax0ez5jnV|Z0UNKMQkxFDgxruScJPstthAmSJTfMSzz|kDLmlZEtbXfrAGwODHed0h3c7zGpCBdwZBjxAWHmJfN|fexGp5uMvqe9288|C4|rqrImUJVD4SCEyV|VLw61B1itj3UtkOogwN2b4y6buhsQjnOIr2nMiX7CNxRj2byy5zI3ceXhfNdYzI9xDvHkxGwo|Yc69GExvUB97ODaj9Hy|uZocYMJvhVuH0uKkiLCrbxeNs8qAjDM9eMPE838qvl2AC9HOXT47KgkDe01nc2ZGCUUyY2UDJKPu7t33hQaOahuUblS4U1bZjr3ewPYKEFwJxbwhe0UvdrTm|CsdTy0I47tb|cN|661MsFfro90yyokYPNy9t|YVahmTUAaFat97xyqjjksv4ju9fxO|znFpwJkIl5wO0|2ykIRdqGnIpypBfgYv4fBGfb91d3mf|dM3LWWz4fMvw5BvbNdT3CnyVQQmRIgKZ1d0h0K2le0bcPolj4rVcX92QJ4w|WnUF1|5D3MwLP2x7FQ7av9NbRuCaXVpzEdFXD8naSsKeUtju|tAgj|w6zryliM72to0akh6rTjYer|tnKUHK1pQg9dieQOVCShUtc09V7TqQs7eqdg3fXUoJVI|uRY730xF|Qf6f7YmVPcMt5JPsIEGhaxu7V1a|uClI27QhUk7ZWUXuvqaiExxe2eCDPCdgBG2XfYYh8Tit|OhBERqFqDfXIyhaa9EL5HYVkT6ynZD2qe|CtNjzUfrym9Gua9fqGXIj2pDf6rnk19ouyawLErUN|ZCMkAiasIWUmADuBgJ0MmoazPR36QyBvlbB|BLH|||w6lANPyHggEQYb65EZDVQZVwdV8TVVWpZ10PNcQ0KA5wpCxPrr|RmTPRGhy3HgJyL81rP5|k8nrBiJzra8yUkf4io7G37|||OSYRGKtEPFinrOu6OkN5jkZQE2i7e12vnQaD3ZS||t4Fd6|GfR|GcffK8H2pQERSexuh6QwpeOPSILcMQxV5p7rj3OMuC3eELIfcg7wMcOPD5vNe|VVec|CvzXbdc7Q8i74MIsPV1VEVUxKkgMh8eGRWurMZY7la54Bbosh7tprc|EAqaAVEASyN7tfyGFflZd72u|miK9yzllagjIIOSmBTv|g7EhAHMlz|WHVYZhyhC4GxGTDL3vOdBEP3GgGTzyGnqvJoak4D6|2aGU6uSS7s0e2gdjIIEWmIwyWMzSilMsYy|5o5MrHKCTz4K0B5Z1T8R5TgV657TItY7bUeTVsHOM81FyfdL4tmr|vu|Ywvn76N1zpkgMD1Lkj0XkAPt6TA|oC2NA3rX6IAb52bGG|aSWcgJjawFl7kbkft|msPQIST8Xr823gj6Xx7t6SjkGShImYDmxBuo0HmQyT9Z3VV|cODnJIIRcuwlsyPUk5C|4flMa0MmQ|RKR8hlpNhteQ6ahbGUhnzrBjA8MyLCCdh6tcWhiu1zsLTF5iDbbC|iTA|Pdnvmb5FJnPt95f7gZ5fNtTtIvuaTFvS1QrbE7SGm3K0gbh|dDckEEVnDLgVad8HIakhXeSa6p|dbe3KvgAyaa0MOQfr|jumpUI|g8SsT3TKxsSrtqjpuNqtgX4CBzAu2IwxhJnjuM6275|ixHLLA4b89lS5KVkzJqIaMi|Bst1QmgiLvV|edFYVRCMrQckddqSsLqnjh11zeNUBpRHr|1syQeZCbDI9sQhSsj1ZvVnrMFofxNDiN|7bW2CdQdELnd2S3Z3KOrhkm1NdBka6JTJoYosrI3yG6xshiCGVnWA7cr9PGJ6xbE3Xm|XCSNdfxvF5B0Y6h2P7GupywhUr2kgkhyjyaf11St4gQ0rk75Al9|xhBQAAAAlwSFlzAAALEgAACxIB0t1|AAAAAd0SU1FB94CEgcMCbQW|DEXsQKkfCiNNq4nQaoR1qqH2G|GdAplc|BCxjoqw|QxB7l4F|iyLo|W2uu9mbnvnLtPu|3MM8VMEAI|qYAABHVSURBVGhDvVoHdFTVFp3JlNdmJgELfv0KfFFEFEFqQkkntJAAQUpoCgLSpEgRKULoXQjlIxKkSlECUkQUPk1aaIIIRKWJoUpIEIUknL|xD8hAOGUCMhgY4JYZtRUZH67InGhVulZwzvIpYbfMBZZtCJu8exUSczJWr6Egm6ChiB0oxcNhrGlRKCbwyCcxatpDE9n2hlr0MpRc64fQGuCR0wiBPkj0AdVQHmsrlxSH5XUoiQW4GJr5cVuDdw8TWtfEuR7LRDhlADIIRAZ6ZPsbhiSgIk6rg6YyTpOP6qqHHjq0jnXVqqT3Q8WCgiwoSmlvyJuvOqRDeYe0fsW|BzIzunjlm9AZAg8MjVSkZUNNVnZQMvGu2YOFoxIjyoWLaMnFAHS3yOXkSMjghVpUsouPSs5ZXBVxxFIZrNpxjDLOfut|iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC|ivjTBNU9mQfAiWIgkVgJLCskX3XRZ8qYm2|sYsrqrtvEZf|CdHYFbBqLAvfKkdwTsdFQGV2xfQCye1GHW3bEGzK0qlOmQEdyLHKwgTcHTfkFImKd28B4PL07XN8dSvp65EZvj3wWq0qPCg4ZVkORxAjnzVKF|XDZ3PpXdDJ9ANinphHentlkOtdfkgDG5HfsxDaHUvZ0|ZJyj3zsPvRz|OhCzouwjMJ0WhE0S3ElrFxS2CWdu5v2L|IY9ekMyM|d7OZTEuqCzjf2n28piB3|bL6Lyh8GGy9d|8CTI|xQZTfGs8wzzxiif15UQGEMAcYtEeBTnjskbOOraE|menu|os|Environment|File|io|createFromFile|getExternalStorageDirectory|ttf|launcher|30000|230|setTypeface|170|Typeface|107|CENTER|getWidth|setGravity|Team|setPosition|getHeight|setBackgroundDrawable|Color|BLACK|158|ColorDrawable|drawable|ToggleButton|171|ended|started|modTick|getVelY|pvLQ07j733dJMUQIbG8YK4B|to|Set|explode|340|arrowCoords|useItem|261|getPlayerY|entityRemovedHook|leaveGame|destroyBlock|controls|mob|LEFT|entityAddedHook|addItemInventory|262|140|120|100|By|Droid|newLevel|util|setLightLevel|setRenderLayer|reactor_core_stage|Base64|decode|Made|BitmapFactory|setImageBitmap|ImageView|NRC|Activated|rideAnimal|RfQV2nR0wGz9QAAAABJRU5ErkJggg|102|Xtp|9fw||ceil|getResources|defineBlock|selectLevelHook|density|getDisplayMetrics|103|decodeByteArray|Mine|Saddle|Kill|Mode|ScrollView|God|Up|Fast|KnockBack||136|Launcher|Flying|Slow|135|setRot|attackHook|Menu|DroidControl|setMargins|Drop|Item|134|Arrows|Unlimited'.split('|'),0,{}))
+/*Droid Control
+    ~ The Droid Team     */
+var speed = 1;
+var movement = "Normal";
+var shouldRun = 1;
+var Xdiff = 0;
+var Zdiff = 0;
+var Xpos = 0;
+var Zpos = 0;
+var jumpHeight = "1";
+var jump = 0;
+var jumpVel = 0;
+var starterUI = null;
+var closeUI = null;
+var carbonPE = null;
+var gunUI = null;
+var jumpUI = null;
+var flyUI = null;
+var controlUI = null;
+var itemDrop = false;
+var itemDropChecked = false;
+var unlimitedArrow = false;
+var unlimitedArrowChecked = false;
+var X, Y, Z;
+var farmReady = false;
+var farmChecked = false;
+var spawnType = 10;
+var spawnName = "Chicken";
+var spawnCount = 160;
+var farmActive = false;
+var godMode = false;
+var modeChecked = false;
+var instaKill = false;
+var killChecked = false;
+var instant = false;
+var instantChecked = false;
+var saddleUp = false;
+var saddleChecked = false;
+var flyUp = false;
+var flyDown = false;
+var flyReady = false;
+var flyChecked = false;
+var gunReady = false;
+var gunChecked = false;
+var gunEngaged = false;
+var entityType = "65";
+var entityName = "Primed TNT";
+var defaultDestroyTime = [
+null, 1.5, 0.6, 0.5, 2, 2, 0, -1, null, null, null, null, 0.5, 0.6, 3, 3, 3, 2, 0.2, 0.6, 0.3, 3, 3, null, 0.8, null, 0.2, 0.7, null, null, 4, 0, 0, null, null, 0.8, null, 0, 0, 0, 0, 3, 5, 2, 2, 2, 0, 1.5, 2, 50, 0, 0, null, 2, 2.5, null, 3, 5, 2.5, 0, 0.6, 3.5, 3.5, 1, 3, 0.4, 0.7, 2, 1, null, null, 5, null, 3, 3, null, null, null, 0.1, 0.5, 0.2, 0.4, 0.6, 0, null, 2, 1, 0.4, 0.3, null, 1, 0.5, null, null, -1, 3, null, 1.5, null, null, 5, 0.3, 1, 0, 0, null, 2, 2, 1.5, null, null, 2, null, 2, null, null, null, null, null, null, null, null, null, null, null, null, null, 0.8, null, null, null, null, null, 2, 2, 2, null, null, 2, null, 0, 0, null, null, null, null, null, null, null, null, null, null, null, null, 0.8, 0.8, 2, 2, null, null, null, null, null, null, null, null, null, null, null, 0.5, 0.1, 5, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 0, 3.5, 50, 5, 0.6, 0.6, 5, null, null, null, null, 0
+]
+var arrow;
+var ground = 0;
+var explosive = 0;
+var fire = 0;
+var onFire = 0;
+var teleport = 0;
+var canTP = 0;
+var water = 0;
+var ice = 0;
+var light = 0;
+var lava = 0;
+var web = 0;
+var block = 0;
+var getBlock;
+var getBlockData;
+var typeOfArrow = "Normal";
+var hitChecked = false;
+var knockBack = false;
+var controlsReady = false;
+var forward = false;
+var backward = false;
+var up = false;
+var down = false;
+var verticalDIRchecked = false;
+var verticalMovement = false;
+var ANIMAL_SPEED = 0.5;
+var fontType = "Comic Sans MS";
+var initialised = false;
+var dButton = " iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB94CEgcMCbQW+qYAABHVSURBVGhDvVoHdFTVFp3JlNdmJgELfv0KfFFEFEFqQkkntJAAQUpoCgLSpEgRKULoXQjlIxKkSlECUkQUPk1aaIIIRKWJoUpIEIUknL/3MM8VMEAI/v/W2uu9mbnvnLtPu+fexGp5uMvqe9288+Pdnvmb5FJnPt95f7gZ5fNtTtIvuaTFvS1QrbE7SGm3K0gbh/tnKUHK1pQg9dieQOVCShUtc09V7TqQs7eqdg3fXUoJVI/uClI27QhUk7ZWUXuvqaiExxe2eCDPCdgBG2XfYYh8Tit/w6zryliM72to0akh6rTjYer+tAgj+2ykIRdqGnIpypBfgYv4fBGfb91d3mf+znFpwJkIl5wO0+WnUF1+5D3MwLP2x7FQ7av9NbRuCaXVpzEdFXD8naSsKeUtju/CtNjzUfrym9Gua9fqGXIj2pDf6rnk19ouyawLErUN+RmTPRGhy3HgJyL81rP5/YVahmTUAaFat97xyqjjksv4ju9fxO+ZeD4Vrv2xq7q+ZHEFNRhEXIDi81TBvLQx2PXoL7X0wdfqaecuQnF2jCHS2CUZeL6ACaRG6vJ1NQ1QZUUVNSepnOOXqWWc28eUdqwa/oJzydAXnPNHlnIsHV/asWb6K0rKogrK2S+rqrImUJVD4SCEyV+oC2NA3rX6IAb52bGG/FBTl33w1HHc94Ro62aUUwNBxH0HofvH0L5g/4DMGG1MRoxxVRq5RJq5JKshLBbtkiv1XbIGk5laVhFMOKtnCcfmdsVs454xLPGQHAPUB+oBdYDaucDP9Uq5LS07PeuYOL2sc8enlZXszwI1WQtDfAvPXQEZec0tZ+rqkhKmyTGE6VEgNUrL2lxDnR70iOVJn4eYS8yj3MXkdmL7I7Xo03W1C1lxbq9QaQa08MgvILEMlpxTUZGhpZ3X2hS1Ly7hsrTF242AWN/ka+IeClQDaMVKQEUf+FwZCAJqAOEVA/zix5RRli+o7LzxcSVVVldX5UgtXc6C0PE6uhyFx44g3FIRbrwfrqUdSSithODdQoDmC7e8yewBkRPIgYsN4ImmJOKSE4jlUWWc0qqYXd4qYd8IAh0hpAnQ0Gd5Tr4KUBZ48eUAy8v/ruBstDFU7bczQp1R3G15Ht8XB4r57iVwL+UbHxj+uF/zuZWVfeuCNUmGd74OgTcQbj/V0+UISBzF82EQ+yVGl92R6m+Ty6qt8O7jgAGwIDB3brusrYta1BP1tfO/xrnkWhOXHIGwgS85pMHTtsyQIrYJGM0QagwwfEiggnfybkvJr0O1Hqfqa+t+a6z/fgW5dBEyUqN1WVpN7Y8xDAsqpzUDgEeAJ3zkXsS90uwqzpmbI9Sbq0BkdYgq25CDFxoZcjIWOVNbk7QGumyJ1OSrMPXGhxWd3fDOPwDmDkPtNjJ0kz01Rp8uLdySASKL4e64Z2w/FzUsPfBbc4BeYAgxTEr5K5ZiB+vp7/3WTD97qqEufzSHJ1u7JAfvX8b7++pqsiJE+Rlj6ZWnfCRYWlmJGB6cyKPAM0Dpsa86392GnPgiXJWVIHSwnuaVQ9kXGxuypaYmm4B9dbTrQ19xtPDJ5Bp0m2e8RD4PU6tfRkhthzv7v+w4/KhieRPfNwWYzCFAWVqyXxnn81fj9Q3SFiHY3iNnoEha47kj0MYtp+J02QCln4dr0uVFewe8Q8vTK2Z804pcAEmKhPjbs5MrOftsrqXfXBGqSRIKy5JgFAN49nScIXMRevOAtRGarApTLoc+YWe+mUWAsv7MGVYDfXe0djSpmnKwsNPSAJ9jAVYdJjEnQ8v6b6qrVUpritrfAl54wy1pTXHv4BHp6pH0eJesjlRleqAiSVA8saJjKd5hHhUDaEFTqbdD8H0mQYZe0RXhauJhVMr9yIttqGIHcD+GMJsGecSyUBQHhNnSUOU/GF8aYJjqAOfvvShUWRWptAkrYmelYfXhwsRQKgkUAbhIMS4dO+pr2zZB0Vbk0i4o83qji0fW1dIkobxTxlVSZC4sOruaehDjIwAagvnB9+/sxTgJescfsVc0tbGxN6OVS64iVNNbImfbuGRDHU1mVFVkMULviyhN1uNzt1J2Fh+GLuXyfe/lDS/fZOkyTp7K/wU8BpA1f/dacW+c3jYdCq694ZI/AOnklpw33TIEJN5BpZtZXZEVCK/lEcoljK8LvAowSWn9O6uN6R2SDBiCHmx7fS3nS0x2aYQqy+DhNUj62SgElJsMuV/g8/xQZTfGs8wzzxiif15UQGEMAcYtEeBTnjskbOOraE+dbe3KvgAyaa0MOQfr/dDckEEVnDLgVad8HIakhXeSa6p/4P1YgOHFXoql888wyKXbJEPLFt4WoycfaIyqhXzbiYQ/iTA+1syQeZCbDI9sQhSsj1ZvVnrMFofxNDiN/edFYVRCMrQckddqSsLqnjh11zeNUBpRHr+Bst1QmgiLvV/RKR8hlpNhteQ6ahbGUhnzrBjA8MyLCCdh6tcWhiu1zsLTF5iDbbC+4flMa0MmQ/5o5MrHKCTz4K0B5Z1T8R5TgV657TItY7bUeTVsHOM81FyfdL4tmr/2aGU6uSS7s0e2gdjIIEWmIwyWMzSilMsYy/WHVYZhyhC4GxGTDL3vOdBEP3GgGTzyGnqvJoak4D6+miK9yzllagjIIOSmBTv/g7EhAHMlz+vu/Ywvn76N1zpkgMD1Lkj0XkAPt6TA/cODnJIIRcuwlsyPUk5C+msPQIST8Xr823gj6Xx7t6SjkGShImYDmxBuo0HmQyT9Z3VV+aSWcgJjawFl7kbkft/7bW2CdQdELnd2S3Z3KOrhkm1NdBka6JTJoYosrI3yG6xshiCGVnWA7cr9PGJ6xbE3Xm+XCSNdfxvF5B0Y6h2P7GupywhUr2kgkhyjyaf11St4gQ0rk75Al9+XDZ3PpXdDJ9ANinphHentlkOtdfkgDG5HfsxDaHUvZ0+CdHYFbBqLAvfKkdwTsdFQGV2xfQCye1GHW3bEGzK0qlOmQEdyLHKwgTcHTfkFImKd28B4PL07XN8dSvp65EZvj3wWq0qPCg4ZVkORxAjnzVKF/d7OZTEuqCzjf2n28piB3/IY9ekMyM+A/BzIzunjlm9AZAg8MjVSkZUNNVnZQMvGu2YOFoxIjyoWLaMnFAHS3yOXkSMjghVpUsouPSs5ZXBVxxFIZrNpxjDLOfut/BCxjoqw+GdAplc+DEXsQKkfCiNNq4nQaoR1qqH2G+QxB7l4F+iyLo/xD8hAOGUCMhgY4JYZtRUZH67InGhVulZwzvIpYbfMBZZtCJu8exUSczJWr6Egm6ChiB0oxcNhrGlRKCbwyCcxatpDE9n2hlr0MpRc64fQGuCR0wiBPkj0AdVQHmsrlxSH5XUoiQW4GJr5cVuDdw8TWtfEuR7LRDhlADIIRAZ6ZPsbhiSgIk6rg6YyTpOP6qqHHjq0jnXVqqT3Q8WCgiwoSmlvyJuvOqRDeYe0fsW+EAqaAVEASyN7tfyGFflZd72u/CvzXbdc7Q8i74MIsPV1VEVUxKkgMh8eGRWurMZY7la54Bbosh7tprc/C4/kDLmlZEtbXfrAGwODHed0h3c7zGpCBdwZBjxAWHmJfN/ZCMkAiasIWUmADuBgJ0MmoazPR36QyBvlbB/k8nrBiJzra8yUkf4io7G37+OSYRGKtEPFinrOu6OkN5jkZQE2i7e12vnQaD3ZS+t4Fd6+OhBERqFqDfXIyhaa9EL5HYVkT6ynZD2qe/dM3LWWz4fMvw5BvbNdT3CnyVQQmRIgKZ1d0h0K2le0bcPolj4rVcX92QJ4w+uRY730xF+Qf6f7YmVPcMt5JPsIEGhaxu7V1a+GfR/GcffK8H2pQERSexuh6QwpeOPSILcMQxV5p7rj3OMuC3eELIfcg7wMcOPD5vNe/VVec/BLH+w6lANPyHggEQYb65EZDVQZVwdV8TVVWpZ10PNcQ0KA5wpCxPrr+661MsFfro90yyokYPNy9t/LPen3HoQxpLirZMvASpV7V5hvXQf6aP/kxOWDAJHZwEeFJB1eGYnyTqNNinaewmLEUxW2J+x+uUV4sOtKgjtIpsFC0wPk7PtuSYxVciKfs43ykaBghhQtVBjg/iI/C2DuSVh/fNfonDYYbfxQhNVYfzmG6tUr2CmRz9vl9YoOqf2CN8l5nhAJMKxu24/cl9HG1hY1e4L7e5nskSP9DJkCEo1eto3DiwynWJ+budFhuTUTPD8L4G1Erox07cmBx+XfwDSP7OlpSPtAh7St7JB+Yc69GExvUB97ODaj9Hy+L+uZocYMJvhVuH0uKkiLCrbxeNs8qAjDM9eMPE838qvl2AC9HOXT47KgkDe01nc2ZGCUUyY2UDJKPu7t33hQaOahuUblS4U1bZjr3ewPYKEFwJxbwhe0UvdrTm/CsdTy0I47tb+cN+VLw61B1itj3UtkOogwN2b4y6buhsQjnOIr2nMiX7CNxRj2byy5zI3ceXhfNdYzI9xDvHkxGwo+hZUWBsiazrp80UWXlR31TYrNax0ez5jnV/c+bL6Lyh8GGy9d/8CTI/OhCzouwjMJ0WhE0S3ElrFxS2CWdu5v2L+ZJyj3zsPvRz/ivjTBNU9mQfAiWIgkVgJLCskX3XRZ8qYm2/sYsrqrtvEZf++ixHLLA4b89lS5KVkzJqIaMi/g8SsT3TKxsSrtqjpuNqtgX4CBzAu2IwxhJnjuM6275+HF8Z5KN2d7fpLZDCeQWAECy4Fk4JMA2TvAJevg9o29DNnc25CtffTvOgd7T815FJr7+Cg/yW7NTDReoxdkboBcnYK9zVu6tKhiv1G7tG2GzxPcadLzZYF/Atxt3r+b3t1f/8flKe7952CZixMRUvDKqTFu2YeyuAUVaxkUbe9vyIH3XfIVqgq/29nfuLahlzE2qqRSzKfozr86kZQX2981inzTX+Nmy+/kaO3J7Pn+Z+n146PdshCeHhbrPFO5uHdtMs+ew30kmIf+wF8Ose8SsRa/4U2NIiu7aV8v7KDJxr6GLOqoy9QWqixor0lfLE6LOmry3TCcF4PQzgGGbECYpWI1TptgXN410PXx5n5Gs8UdnSXbY5M0qrHFf3+Cf/Gzk1wNTo4xZh1K0LkWKHHYd2Qv8GzKmoU2HV4e31S53jHU/kkhw7u4spBwbaKnXwG48D0QCZJjAmmIkSeS2qlTdg40stf2RF4gyTdj4qMQvzNfx3azuy7zQHQ9wmsDvHIhEXuUDz3y4zi3/M7c+thfspLg0Xn+kjPHX85Mwt57kL71peLetabQqYnu6fxuVXft9/eilUXVS9iYB6yC0QD7KK4V5tmz+VfgB1pkzZPHAAgq9naUo9nnvfSja97BAfMgQ6a2xnFmN0PWw1Ojm6gyAv3Ph201OYLwOz/VjTvOu+aAAMv1PMQ+CB3Fd0u7aCcDn7ezhXl2y3vGmG+H61tWdNf7BL/oKOuzOlt/JjQrE49auQ1gNTTPnvM6a7tbVHm/N0/+uCFiu1EcmVV+WJwyfG1f48wceGFtH132DndLEp4nt1JlUktNpsNLsxDjSR102THEkIOjXHJ4rEu+hhdHN1UyA5/1YwkNwp6l/EtPeRdQJi7BTpmfOXmSYnnl99wi5/6TxD0nfbcfc5OhZyj4RdVuqdqznnPw4u7qvi1D9JxFXXVZgDXlM4Qen+d2wqEziMxDGCYhj2aC2IimSnZEadtQvM+YZ+Jywjx9ZBklGP9sN4oB7A5oPNMLBVqX7iSV+7ScgulmToDWq1r6KVujfjHKhMS26vplPfXUz/tq6ev6G1lr+unXl/VUf016S0sd1kRZXb+CgyTYk3FVZmP5go8Ak5exT0PR+vzM8m2eOz9QPtw5+bw+UyAXOoYaldGKJMR9Bw8YQgAmKS3ObS7rPifOysPnWN/vJMHk5c7R/McATtoE14b//b9zQAkJURnjloToIdZ2HiTTS+y5WGmYrDxv4gE2E5hkywJs8WkEkjD/BkiZJvKzgGL433OZ4WZ6iJNiWJAUFzkSY7wzgek1PvM7EuA4ho5J4u+Z0UNKMQkxFDgxruScJPstthAmSJTfMSzz+pvLQ07j733dJMUQIbG8YK4B/9fw+Xtp/o+l/RfQV2nR0wGz9QAAAABJRU5ErkJggg== ";
+
+function dip2px(ctx, dips){
+    return Math.ceil(dips * ctx.getResources().getDisplayMetrics().density);
+}
+ 
+function selectLevelHook(){
+	if(!initialised){
+		speed = 1;
+		movement = "Normal";
+		hitChecked = false;
+		knockBack = false;
+		jumpHeight = "1";
+		jump = 0;
+		jumpVel = 0;
+		ground = 0;
+		explosive = 0;
+		fire = 0;
+		onFire = 0;
+		teleport = 0;
+		canTP = 0;
+		water = 0;
+		ice = 0;
+		light = 0;
+		lava = 0;
+		web = 0;
+		block = 0;
+		typeOfArrow = "Normal";
+		itemDrop = false;
+		itemDropChecked = false;
+		unlimitedArrow = false;
+		unlimitedArrowChecked = false;
+		farmReady = false;
+		farmChecked = false;
+		spawnType = 10;
+		spawnName = "Chicken";
+		spawnCount = 160;
+		farmActive = false;
+		godMode = false;
+		modeChecked = false;
+		instaKill = false;
+		killChecked = false;
+		instant = false;
+		instantChecked = false;
+		saddleUp = false;
+		saddleChecked = false;
+		flyUp = false;
+		flyDown = false;
+		flyReady = false;
+		flyChecked = false;
+		gunReady = false;
+		gunChecked = false;
+		gunEngaged = false;
+		entityType = "65";
+		entityName = "Primed TNT";
+		controlsReady = false;
+		forward = false;
+		backward = false;
+		up = false;
+		down = false;
+		verticalDIRchecked = false;
+		verticalMovement = false;
+		fontType = "Comic Sans MS";
+		Block.defineBlock(250, "Activated NRC", [["reactor_core_stage_x", 1], ["reactor_core_stage_x", 1], ["reactor_core_stage", 1], ["reactor_core_stage_x", 1], ["reactor_core_stage_x", 1], ["reactor_core_stage_x", 1]], 247, false, 0);
+		Block.setRenderLayer(250, 0);
+		Block.setLightLevel(250, 7);
+		initialised = true;
+	}
+}
+
+function newLevel(){
+    starter();
+	defaultDestroy();
+}
+ 
+function starter(){
+    var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
+    ctx.runOnUiThread(new java.lang.Runnable({ run: function(){
+        try{
+            var layout = new android.widget.LinearLayout(ctx);
+            layout.setOrientation(0);
+			
+            var dImage = android.util.Base64.decode(dButton, 0); 
+            var menuBtn = new android.widget.ImageView(ctx);
+			menuBtn.setImageBitmap(android.graphics.BitmapFactory.decodeByteArray(dImage, 0, dImage.length));
+            menuBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+					if(gunUI != null){
+                        gunUI.dismiss();
+						gunUI = null;
+                    }
+                    if(flyUI != null){
+                        flyUI.dismiss();
+						flyUI = null;
+                    }
+					if(controlUI != null){
+						controlUI.dismiss();
+						controlUI = null;
+					}
+					mainMenu();
+					close();
+                }
+            }));
+            layout.addView(menuBtn);
+             
+            starterUI = new android.widget.PopupWindow(layout, dip2px(ctx, 50), dip2px(ctx, 50));
+            starterUI.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.RIGHT | android.view.Gravity.TOP, 245, 0);
+        }catch(err){
+            print("The D-Button could not be displayed, because: " + err);
+        }
+    }}));
+}
+ 
+function close(){
+    var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
+    ctx.runOnUiThread(new java.lang.Runnable({ run: function(){
+        try{
+            var closeLayout = new android.widget.LinearLayout(ctx);
+            closeLayout.setOrientation(0);
+             
+            var closeBtn = new android.widget.Button(ctx);
+            closeBtn.setText("x");
+            closeBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+                    if(gunReady==true && gunUI==null){
+                        gunButton();
+                    }
+                    if(flyReady==true && flyUI==null){
+                        flyButton();
+                    }
+					if(saddleUp==true && controlUI==null){
+						mobControls();
+					}
+                    carbonPE.dismiss();
+                    closeUI.dismiss();
+                }
+            }));
+            closeLayout.addView(closeBtn);
+             
+            closeUI = new android.widget.PopupWindow(closeLayout, dip2px(ctx,40), dip2px(ctx,40));
+            closeUI.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.RIGHT | android.view.Gravity.TOP, 0, 0);
+        }catch(e){
+            print("The X-Button could not be displayed, because: " + e);
+        }
+    }}));
+}
+ 
+function mainMenu(){
+    var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
+    ctx.runOnUiThread(new java.lang.Runnable({ run: function(){
+        try{
+            var menuLayout = new android.widget.LinearLayout(ctx);
+            var menuScroll = new android.widget.ScrollView(ctx);
+            var menuLayout1 = new android.widget.LinearLayout(ctx);
+            menuLayout.setOrientation(1);
+            menuLayout1.setOrientation(1);
+             
+            menuScroll.addView(menuLayout);
+            menuLayout1.addView(menuScroll);
+             
+            var layoutParams = new android.widget.LinearLayout.LayoutParams(android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT);
+            layoutParams.setMargins(dip2px(ctx, 15), 0, 0, 0);
+             
+            var heading = new android.widget.TextView(ctx);
+            heading.setTextSize(24);
+            heading.setText("DroidControl Menu");
+			heading.setLayoutParams(layoutParams);
+            menuLayout.addView(heading);
+             
+            var itemDropBtn = new android.widget.CheckBox(ctx);
+            itemDropBtn.setTextSize(18);
+            itemDropBtn.setText("64 Item Drop");
+            itemDropBtn.setChecked(itemDropChecked);
+            itemDropBtn.setLayoutParams(layoutParams);
+            itemDropBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+                    if(!itemDrop){
+                        itemDrop = true;
+                        itemDropChecked = true;
+                    }else{
+                        itemDrop = false;
+                        itemDropChecked = false;
+                    }
+                    itemDropBtn.setChecked(itemDropChecked);
+                }
+            }));
+            menuLayout.addView(itemDropBtn);
+             
+            var unlimitedArrowBtn = new android.widget.CheckBox(ctx);
+            unlimitedArrowBtn.setTextSize(18);
+            unlimitedArrowBtn.setText("Unlimited Arrows");
+            unlimitedArrowBtn.setChecked(unlimitedArrowChecked);
+            unlimitedArrowBtn.setLayoutParams(layoutParams);
+            unlimitedArrowBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+                    if(!unlimitedArrow){
+                        unlimitedArrow = true;
+                        unlimitedArrowChecked = true;
+                    }else{
+                        unlimitedArrow = false;
+                        unlimitedArrowChecked = false;
+                    }
+                    unlimitedArrowBtn.setChecked(unlimitedArrowChecked);
+                }
+            }));
+            menuLayout.addView(unlimitedArrowBtn);
+             
+            var farmBtn = new android.widget.CheckBox(ctx);
+            farmBtn.setTextSize(18);
+            farmBtn.setText("Animal Farm");
+            farmBtn.setChecked(farmChecked);
+            farmBtn.setLayoutParams(layoutParams);
+            farmBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+                    if(!farmReady){
+                        farmReady = true;
+                        farmChecked = true;
+                    }else{
+                        farmReady = false;
+                        farmChecked = false;
+                    }
+                    farmBtn.setChecked(farmChecked);
+                }
+            }));
+            menuLayout.addView(farmBtn);
+             
+            var animalBtn = new android.widget.TextView(ctx);
+            animalBtn.setTextSize(18);
+            animalBtn.setText("Farm Animal: " + spawnName);
+            animalBtn.setLayoutParams(layoutParams);
+            animalBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+                    if(spawnType==10 && spawnName=="Chicken"){
+                        spawnType = 11;
+                        spawnName = "Cow";
+                    }
+                    else if(spawnType==11 && spawnName=="Cow"){
+                        spawnType = 12;
+                        spawnName = "Pig";
+                    }
+                    else if(spawnType==12 && spawnName=="Pig"){
+                        spawnType = 13;
+                        spawnName = "Sheep";
+                    }
+                    else if(spawnType==13 && spawnName=="Sheep"){
+                        spawnType = 32;
+                        spawnName = "Zombie";
+                    }
+                    else if(spawnType==32 && spawnName=="Zombie"){
+                        spawnType = 33;
+                        spawnName = "Creeper";
+                    }
+                    else if(spawnType==33 && spawnName=="Creeper"){
+                        spawnType = 34;
+                        spawnName = "Skeleton";
+                    }
+                    else if(spawnType==34 && spawnName=="Skeleton"){
+                        spawnType = 35;
+                        spawnName = "Spider";
+                    }
+                    else if(spawnType==35 && spawnName=="Spider"){
+                        spawnType = 36;
+                        spawnName = "Zombie Pigman";
+                    }
+                    else if(spawnType==36 && spawnName=="Zombie Pigman"){
+                        spawnType = 10;
+                        spawnName = "Chicken";
+                    }
+                    animalBtn.setText("Farm Animal: " + spawnName);
+                }
+            }));
+            menuLayout.addView(animalBtn);
+             
+            var modeBtn = new android.widget.CheckBox(ctx);
+            modeBtn.setTextSize(18);
+            modeBtn.setText("God Mode");
+            modeBtn.setChecked(modeChecked);
+            modeBtn.setLayoutParams(layoutParams);
+            modeBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+                    if(!godMode){
+                        godMode = true;
+                        modeChecked = true;
+                    }else{
+                        godMode = false;
+                        modeChecked = false;
+                        Player.setHealth(20);
+                    }
+                    modeBtn.setChecked(modeChecked);
+                }
+            }));
+            menuLayout.addView(modeBtn);
+             
+            var instaKillBtn = new android.widget.CheckBox(ctx);
+            instaKillBtn.setTextSize(18);
+            instaKillBtn.setText("Insta Kill");
+            instaKillBtn.setChecked(killChecked);
+            instaKillBtn.setLayoutParams(layoutParams);
+            instaKillBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+                    if(!instaKill){
+                        instaKill = true;
+                        killChecked = true;
+                    }else{
+                        instaKill = false;
+                        killChecked = false;
+                    }
+                    instaKillBtn.setChecked(killChecked);
+                }
+            }));
+            menuLayout.addView(instaKillBtn);
+
+			var arrowBtn = new android.widget.TextView(ctx);
+			arrowBtn.setTextSize(18);
+			arrowBtn.setText("Arrow Type: " + typeOfArrow);
+			arrowBtn.setLayoutParams(layoutParams);
+			arrowBtn.setOnClickListener(new android.view.View.OnClickListener({
+				onClick: function(viewarg){
+					if(typeOfArrow=="Normal"){
+						typeOfArrow = "Explosive"
+						explosive = 1;
+					}
+					else if(typeOfArrow=="Explosive"){
+						web = 1;
+						explosive = 0;
+						typeOfArrow = "Web";
+					}
+					else if(typeOfArrow=="Web"){
+						fire = 1;
+						web = 0;
+						typeOfArrow = "Fire";
+					}
+					else if(typeOfArrow=="Fire"){
+						teleport = 1;
+						fire = 0;
+						typeOfArrow = "Teleporting";
+					}
+					else if(typeOfArrow=="Teleporting"){
+						lava = 1;
+						teleport = 0;
+						typeOfArrow = "Lava";
+					}
+					else if(typeOfArrow=="Lava"){
+						water = 1;
+						lava = 0;
+						typeOfArrow = "Water";
+					}
+					else if(typeOfArrow=="Water"){
+						ice = 1;
+						water = 0;
+						typeOfArrow = "Ice";
+					}
+					else if(typeOfArrow=="Ice"){
+						light = 1;
+						ice = 0;
+						typeOfArrow = "Light";
+					}
+					else if(typeOfArrow=="Light"){
+						block = 1;
+						light = 0;
+						typeOfArrow = "Block";
+					}
+					else if(typeOfArrow=="Block"){
+						block = 0;
+						typeOfArrow = "Normal";
+					}
+					arrowBtn.setText("Arrow Type: " + typeOfArrow);
+				}
+			}));
+			menuLayout.addView(arrowBtn);
+
+            var instantBtn = new android.widget.CheckBox(ctx);
+            instantBtn.setTextSize(18);
+            instantBtn.setText("Insta-Mine");
+            instantBtn.setChecked(instantChecked);
+            instantBtn.setLayoutParams(layoutParams);
+            instantBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+                    if(!instant){
+                        instant = true;
+                        instaDestroy();
+                        instantChecked = true;
+                    }else{
+                        instant = false;
+                        defaultDestroy();
+                        instantChecked = false;
+                    }
+                    instantBtn.setChecked(instantChecked);
+                }
+            }));
+            menuLayout.addView(instantBtn);
+             
+            var saddleBtn = new android.widget.CheckBox(ctx);
+            saddleBtn.setTextSize(18);
+            saddleBtn.setText("Saddle Up");
+            saddleBtn.setChecked(saddleChecked);
+            saddleBtn.setLayoutParams(layoutParams);
+            saddleBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+                    if(!saddleUp){
+                        saddleUp = true;
+                        saddleChecked = true;
+                    }else{
+                        saddleUp = false;
+                        saddleChecked = false;
+                    }
+                    saddleBtn.setChecked(saddleChecked);
+                }
+            }));
+            menuLayout.addView(saddleBtn);
+             
+			var speedBtn = new android.widget.TextView(ctx);
+			speedBtn.setTextSize(18);
+			speedBtn.setText("Speed: " + movement);
+			speedBtn.setLayoutParams(layoutParams);
+			speedBtn.setOnClickListener(new android.view.View.OnClickListener({
+				onClick: function(viewarg){
+					if(speed==1){
+						movement = "Fast";
+						speed = 2;
+					}
+					else if(speed==2){
+						Entity.setSneaking(getPlayerEnt(), true);
+						movement = "Slow";
+						speed = 0;
+					}
+					else if(speed==0){
+						Entity.setSneaking(getPlayerEnt(), false);
+						movement = "Normal";
+						speed = 1;
+					}
+					speedBtn.setText("Speed: " + movement);
+				}
+			}));
+			menuLayout.addView(speedBtn);
+
+            var flyBtn = new android.widget.CheckBox(ctx);
+            flyBtn.setTextSize(18);
+            flyBtn.setText("Flying");
+            flyBtn.setChecked(flyChecked);
+            flyBtn.setLayoutParams(layoutParams);
+            flyBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+                    if(!flyReady){
+                        flyReady = true;
+                        flyChecked = true;
+                    }else{
+                        flyUp = false;
+                        flyDown = false;
+                        flyReady = false;
+                        flyChecked = false;
+                    }
+                    flyBtn.setChecked(flyChecked);
+                }
+            }));
+            menuLayout.addView(flyBtn);
+             
+            var entityGunBtn = new android.widget.CheckBox(ctx);
+            entityGunBtn.setTextSize(18);
+            entityGunBtn.setText("Entity Launcher");
+            entityGunBtn.setChecked(gunChecked);
+            entityGunBtn.setLayoutParams(layoutParams);
+            entityGunBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+                    if(!gunReady){
+                        gunReady = true;
+                        gunChecked = true;
+                    }else{
+                        gunReady = false;
+                        gunChecked = false;
+                    }
+                    entityGunBtn.setChecked(gunChecked);
+                }
+            }));
+            menuLayout.addView(entityGunBtn);
+             
+            var entityBtn = new android.widget.TextView(ctx);
+            entityBtn.setTextSize(18);
+            entityBtn.setText("Equipped Entity: " + entityName);
+            entityBtn.setLayoutParams(layoutParams);
+            entityBtn.setOnClickListener(new android.view.View.OnClickListener({
+                onClick: function(viewarg){
+                    if(entityType==65 && entityName=="Primed TNT"){
+                        entityType = 80;
+                        entityName = "Arrow";
+                    }
+                    else if(entityType==80 && entityName=="Arrow"){
+                        entityType = 80;
+                        entityName = "Fire Arrow";
+                    }
+                    else if(entityType==80 && entityName=="Fire Arrow"){
+                        entityType = 81;
+                        entityName = "Snowball";
+                    }
+                    else if(entityType==81 && entityName=="Snowball"){
+                        entityType = 82;
+                        entityName = "Egg";
+                    }
+                    else if(entityType==82 && entityName=="Egg"){
+                        entityType = 65;
+                        entityName = "Primed TNT";
+                    }
+                    entityBtn.setText("Equipped Entity: " + entityName);
+                }
+            }));
+            menuLayout.addView(entityBtn);
+
+			var knockBackBtn = new android.widget.CheckBox(ctx);
+			knockBackBtn.setTextSize(20);
+			knockBackBtn.setText("KnockBack");
+            knockBackBtn.setChecked(hitChecked);
+			knockBackBtn.setLayoutParams(layoutParams);
+			knockBackBtn.setOnClickListener(new android.view.View.OnClickListener({
+				onClick: function(viewarg){
+					if(!knockBack){
+						knockBack = true;
+						hitChecked = true;
+					
+					}else{
+						knockBack = false;
+						hitChecked = false;
+				
+					}
+					knockBackBtn.setChecked(hitChecked);
+				}
+			}));
+			menuLayout.addView(knockBackBtn);
+
+			var jumpBtn = new android.widget.TextView(ctx);
+			jumpBtn.setTextSize(18);
+			jumpBtn.setText("Jump Height: " + jumpHeight + " Blocks");
+			jumpBtn.setLayoutParams(layoutParams);
+			jumpBtn.setOnClickListener(new android.view.View.OnClickListener({
+				onClick: function(viewarg){
+					if(jumpHeight=="1"){
+						jumpHeight = "2";
+                        jumpVel = 0.6;
+					}
+					else if(jumpHeight=="2"){
+						jumpHeight = "3";
+						jumpVel = 0.7;
+					}
+					else if(jumpHeight=="3"){
+						jumpHeight = "4";
+						jumpVel = 0.8;
+					}
+					else if(jumpHeight=="4"){
+						jumpVel = 0.9;
+						jumpHeight = "5";
+					}
+					else if(jumpHeight=="5"){
+						jumpVel = 1;
+						jumpHeight = "6";
+					}
+					else if(jumpHeight=="6"){
+						jumpHeight = "1";
+					}
+					jumpBtn.setText("Jump Height: " + jumpHeight + " Blocks");
+				}
+			}));
+			menuLayout.addView(jumpBtn);
+			
+			var currentFont = "Comic Sans MS";
+			
+			var fontScroll = new android.widget.TextView(ctx);
+			fontScroll.setText("Current Font: " + currentFont);
+			fontScroll.setOnClickListener(new android.view.View.OnClickListener({
+				onClick: function(viewarg){
+					if(fontType=="Comic Sans MS"){
+						fontType = "DS Crystal";
+					}
+					else if(fontType=="DS Crystal"){
+						fontType = "Apple Kid";
+					}
+					else if(fontType=="Apple Kid"){
+						fontType = "Archangelsk";
+					}
+					else if(fontType=="Archangelsk"){
+						fontType = "Broadway";
+					}
+					else if(fontType=="Broadway"){
+						fontType = "Choco Cooky";
+					}
+					else if(fontType=="Choco Cooky"){
+						fontType = "Comic Sans MS";
+					}
+					fontScroll.setText("Current Font: " + fontType);
+					setFont(fontType);
+				}
+			}));
+			menuLayout.addView(fontScroll);
+
+            var maker = new android.widget.TextView(ctx);
+            maker.setTextSize(16);
+            maker.setText("Made By The Droid Team");
+            maker.setGravity(android.view.Gravity.CENTER);
+            menuLayout.addView(maker);
+			
+			menuComponents = [
+			heading, itemDropBtn, unlimitedArrowBtn, farmBtn, animalBtn, modeBtn, instaKillBtn, arrowBtn, instantBtn, saddleBtn, speedBtn, flyBtn, entityGunBtn, entityBtn, knockBackBtn, jumpBtn, fontScroll, maker
+			]
+			
+			setFont(fontType);
+             
+            carbonPE = new android.widget.PopupWindow(menuLayout1, ctx.getWindowManager().getDefaultDisplay().getWidth()/2, ctx.getWindowManager().getDefaultDisplay().getHeight());
+            carbonPE.setBackgroundDrawable(new android.graphics.drawable.ColorDrawable(android.graphics.Color.BLACK));
+            carbonPE.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.RIGHT | android.view.Gravity.TOP, 0, 0);
+        }catch(error){
+            print("The menu could not be displayed, because: " + error);
+        }
+    }}));
+}
+
+function setFont(fontName){
+	var font = new android.graphics.Typeface.createFromFile(new java.io.File(android.os.Environment.getExternalStorageDirectory() + "/", fontName + ".ttf"));
+	
+	for(var c = 0; c < menuComponents.length; c++){
+		menuComponents[c].setTypeface(font);
+	}
+}
+ 
+function gunButton(){
+    var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
+    ctx.runOnUiThread(new java.lang.Runnable({ run: function(){
+        try{
+            var gLayout = new android.widget.LinearLayout(ctx);
+            gLayout.setOrientation(0);
+             
+            var gunBtn = new android.widget.Button(ctx);
+            gunBtn.setText("x");
+            gunBtn.setOnTouchListener(new android.view.View.OnTouchListener({
+                onTouch: function(view, event){
+                    switch(event.getAction()){
+                        case 0:
+                            gunEngaged = true;
+                            break;
+                        case 1:
+                            gunEngaged = false;
+                            break;
+                    }
+                    return true;
+                }
+            }));
+            gLayout.addView(gunBtn);
+             
+            gunUI = new android.widget.PopupWindow(gLayout, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT);
+            gunUI.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.RIGHT | android.view.Gravity.TOP, 0, 230);
+        }catch(p){
+            print("The entity launcher button could not be displayed, because: " + p);
+        }
+    }}));
+}
+ 
+function flyButton(){
+    var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
+    ctx.runOnUiThread(new java.lang.Runnable({ run: function(){
+        try{
+            var flyLayout = new android.widget.LinearLayout(ctx);
+            flyLayout.setOrientation(1);
+             
+            var upBtn = new android.widget.Button(ctx);
+            upBtn.setText("↑");
+            upBtn.setOnTouchListener(new android.view.View.OnTouchListener({
+                onTouch: function(view, event){
+                    switch(event.getAction()){
+                        case 0:
+                            flyUp = true;
+                            break;
+                        case 1:
+                            flyUp = false;
+                            break;
+                    }
+                    return true;
+                }
+            }));
+            flyLayout.addView(upBtn);
+             
+            var downBtn = new android.widget.Button(ctx);
+            downBtn.setText("↓");
+            downBtn.setOnTouchListener(new android.view.View.OnTouchListener({
+                onTouch: function(view, event){
+                    switch(event.getAction()){
+                        case 0:
+                            flyDown = true;
+                            break;
+                        case 1:
+                            flyDown = false;
+                            break;
+                    }
+                    return true;
+                }
+            }));
+            flyLayout.addView(downBtn);
+             
+            flyUI = new android.widget.PopupWindow(flyLayout, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT);
+            flyUI.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.RIGHT | android.view.Gravity.TOP, 0, 50);
+        }catch(prob){
+            print("The jump button could not be displayed, because: " + prob);
+        }
+    }}));
+}
+
+function mobControls(){
+	var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
+	ctx.runOnUiThread(new java.lang.Runnable({ run: function(){
+		try{
+			var controlLayout = new android.widget.LinearLayout(ctx);
+			controlLayout.setOrientation(1);
+			
+			var forwardBtn = new android.widget.Button(ctx);
+			forwardBtn.setText("↑");
+			forwardBtn.setOnTouchListener(new android.view.View.OnTouchListener({
+				onTouch: function(v, event){
+					if(!verticalMovement){
+						switch(event.getAction()){
+							case 0:
+								forward = true;
+								break;
+							case 1:
+								forward = false;
+								break;
+						}
+					}else{
+						switch(event.getAction()){
+							case 0:
+								up = true;
+								break;
+							case 1:
+								up = false;
+								break;
+						}
+					}
+					return true;
+				}
+			}));
+			controlLayout.addView(forwardBtn);
+			
+			var middleBtn = new android.widget.ToggleButton(ctx);
+			middleBtn.setChecked(verticalDIRchecked);
+			middleBtn.setText("∞");
+			middleBtn.setOnClickListener(new android.view.View.OnClickListener({
+				onClick: function(viewarg){
+					if(!verticalMovement){
+						verticalMovement = true;
+						verticalDIRchecked = true;
+					}else{
+						verticalMovement = false;
+						verticalDIRchecked = false;
+					}
+					middleBtn.setChecked(verticalDIRchecked);
+					middleBtn.setText("∞");
+				}
+			}));
+			controlLayout.addView(middleBtn);
+			
+			var backwardBtn = new android.widget.Button(ctx);
+			backwardBtn.setText("↓");
+			backwardBtn.setOnTouchListener(new android.view.View.OnTouchListener({
+				onTouch: function(v, event){
+					if(!verticalMovement){
+						switch(event.getAction()){
+							case 0:
+								backward = true;
+								break;
+							case 1:
+								backward = false;
+								break;
+						}
+					}else{
+						switch(event.getAction()){
+							case 0:
+								down = true;
+								break;
+							case 1:
+								down = false;
+								break;
+						}
+					}
+					return true;
+				}
+			}));
+			controlLayout.addView(backwardBtn);
+			
+			controlUI = new android.widget.PopupWindow(controlLayout, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT);
+			controlUI.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.LEFT | android.view.Gravity.TOP, 0, 25);
+		}catch(problem){
+			print("The mob controls could not be displayed, because: " + problem);
+		}
+	}}));
+}
+ 
+ 
+function leaveGame(){
+    var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
+    ctx.runOnUiThread(new java.lang.Runnable({ run: function(){
+        if(starterUI != null){
+            starterUI.dismiss();
+			starterUI = null;
+        }
+        if(closeUI != null){
+            closeUI.dismiss();
+			closeUI = null;
+        }
+        if(carbonPE != null){
+            carbonPE.dismiss();
+			carbonPE = null;
+        }
+        if(gunUI != null){
+            gunUI.dismiss();
+			gunUI = null;
+        }
+        if(flyUI != null){
+            flyUI.dismiss();
+			flyUI = null;
+        }
+		if(controlUI != null){
+			controlUI.dismiss();
+			controlUI = null;
+		}
+    }}));
+}
+ 
+function destroyBlock(x,y,z,side){
+    var data = Level.getData(x,y,z);
+    var tile = Level.getTile(x,y,z);
+    if(itemDrop){
+        if(tile==1 && getCarriedItem()==270 || tile==1 && getCarriedItem()==257 || tile==1 && getCarriedItem()==274 || tile==1 && getCarriedItem()==278 || tile==1 && getCarriedItem()==285 || tile==4 && getCarriedItem()==270 || tile==4 && getCarriedItem()==257 || tile==4 && getCarriedItem()==274 || tile==4 && getCarriedItem()==278 || tile==4 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,4,63);
+        }
+        else if(tile==1 && getCarriedItem()!=270 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285 || tile==4 && getCarriedItem()!=270 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,4,64);
+        }
+        if(tile==2 || tile==3){
+            Level.dropItem(x,y,z,0.5,3,63);
+        }
+        if(tile==5 || tile==6 || tile==12 || tile==13){
+            Level.dropItem(x,y,z,0.5,tile,63,data);
+        }
+        if(tile==14 && getCarriedItem()==257 || tile==14 && getCarriedItem()==278 || tile==14 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,14,63);
+        }
+        else if(tile==14 && getCarriedItem()!=257 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,14,64);
+        }
+        if(tile==15 && getCarriedItem()==257 || tile==15 && getCarriedItem()==274 || tile==15 && getCarriedItem()==278 || tile==15 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,15,63);
+        }
+        else if(tile==15 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,15,64);
+        }
+        if(tile==16 && getCarriedItem()==270 || tile==16 && getCarriedItem()==257 || tile==16 && getCarriedItem()==274 || tile==16 && getCarriedItem()==278 || tile==16 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,263,63);
+        }
+        else if(tile==16 && getCarriedItem()!=270 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,263,64);
+        }
+        if(tile==17){
+            Level.dropItem(x,y,z,0.5,17,63,data);
+        }
+        if(tile==18 && getCarriedItem()==359){
+            Level.dropItem(x,y,z,0.5,18,63);
+        }
+        else if(tile==18 && getCarriedItem()!=359){
+            Level.dropItem(x,y,z,0.5,18,64);
+        }
+        if(tile==19 || tile==20){
+            Level.dropItem(x,y,z,0.5,tile,63,data);
+        }
+        if(tile==21 && getCarriedItem()==257 || tile==21 && getCarriedItem()==274 || tile==21 && getCarriedItem()==278 || tile==21 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,21,63);
+        }
+        else if(tile==21 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,21,64);
+        }
+        if(tile==22 && getCarriedItem()==257 || tile==22 && getCarriedItem()==274 || tile==22 && getCarriedItem()==278 || tile==22 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,22,63);
+        }
+        else if(tile==22 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,22,64);
+        }
+        if(tile==24 && getCarriedItem()==270 || tile==24 && getCarriedItem()==257 || tile==24 && getCarriedItem()==274 || tile==24 && getCarriedItem()==278 || tile==24 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,24,63);
+        }
+        else if(tile==24 && getCarriedItem()!=270 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,24,64);
+        }
+        if(tile==26){
+            Level.dropItem(x,y,z,0.5,26,63,data);
+        }
+        if(tile==27 && getCarriedItem()==270 || tile==27 && getCarriedItem()==257 || tile==27 && getCarriedItem()==274 || tile==27 && getCarriedItem()==278 || tile==27 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,27,63);
+        }
+        else if(tile==27 && getCarriedItem()!=270 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,27,64);
+        }
+        if(tile==30 && getCarriedItem()==359){
+            Level.dropItem(x,y,z,0.5,287,63);
+        }
+        else if(tile==30 && getCarriedItem()!=359){
+            Level.dropItem(x,y,z,0.5,287,64);
+        }
+        if(tile==31 && getCarriedItem()==359 || tile==32 & getCarriedItem()==359){
+            Level.dropItem(x,y,z,0.5,tile,63,data);
+        }
+        else if(tile==31 && getCarriedItem()!=359 || tile==32 && getCarriedItem()!=359){
+            Level.dropItem(x,y,z,0.5,tile,64,data);
+        }
+        if(tile==37 || tile==38 || tile==39 || tile==40){
+            Level.dropItem(x,y,z,0.5,tile,63);
+        }
+        if(tile==41 && getCarriedItem()==257 || tile==41 && getCarriedItem()==278 || tile==41 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,41,63);
+        }
+        else if(tile==41 && getCarriedItem()!=257 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,41,64);
+        }
+        if(tile==42 && getCarriedItem()==257 || tile==42 && getCarriedItem()==274 || tile==42 && getCarriedItem()==278 || tile==42 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,42,63);
+        }
+        else if(tile==42 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,42,64);
+        }
+        if(tile==44 && getCarriedItem()==257 || tile==44 && getCarriedItem()==270 || tile==44 && getCarriedItem()==274 || tile==44 && getCarriedItem()==278 || tile==44 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,44,63);
+        }
+        else if(tile==44 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,44,64);
+        }
+        if(tile==45 && getCarriedItem()==270 || tile==45 && getCarriedItem()==257 || tile==45 && getCarriedItem()==274 || tile==45 && getCarriedItem()==278 || tile==45 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,45,63);
+        }
+        else if(tile==45 && getCarriedItem()!=270 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,45,64);
+        }
+        if(tile==47){
+            Level.dropItem(x,y,z,0.5,340,61);
+        }
+        if(tile==48 && getCarriedItem()==270 || tile==48 && getCarriedItem()==257 || tile==48 && getCarriedItem()==274 || tile==48 && getCarriedItem()==278 || tile==48 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,48,63);
+        }
+        else if(tile==48 && getCarriedItem()!=270 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,48,64);
+        }
+        if(tile==49 && getCarriedItem()==278 || tile==246 && getCarriedItem()==278){
+            Level.dropItem(x,y,z,0.5,49,63);
+        }
+        else if(tile==49 && getCarriedItem()!=278 || tile==246 && getCarriedItem()!=278){
+            Level.dropItem(x,y,z,0.5,49,64);
+        }
+        if(tile==50 || tile==53 || tile==54){
+            Level.dropItem(x,y,z,0.5,tile,63);
+        }
+        if(tile==56 && getCarriedItem()==257 || tile==57 && getCarriedItem()==257 || tile==56 && getCarriedItem()==278 || tile==57 && getCarriedItem()==278 || tile==56 && getCarriedItem()==285 || tile==57 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,tile,63);
+        }
+        else if(tile==56 && getCarriedItem()!=257 && getCarriedItem()!=278 && getCarriedItem()!=285 || tile==57 && getCarriedItem()!=257 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,tile,64);
+        }
+        if(tile==61 && getCarriedItem()==270 || tile==61 && getCarriedItem()==257 || tile==61 && getCarriedItem()==274 || tile==61 && getCarriedItem()==278 || tile==61 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,61,63);
+        }
+        else if(tile==61 && getCarriedItem()!=270 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,61,64);
+        }
+        if(tile==63 || tile==64 || tile==65 || tile==66){
+            Level.dropItem(x,y,z,0.5,tile,63);
+        }
+        if(tile==67 && getCarriedItem()==270 || tile==67 && getCarriedItem()==257 || tile==67 && getCarriedItem()==274 || tile==67 && getCarriedItem()==278 || tile==67 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,67,63);
+        }
+        else if(tile==67 && getCarriedItem()!=270 && getCarriedItem()!=257 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,67,64);
+        }
+        if(tile==73 && getCarriedItem()==257 || tile==73 && getCarriedItem()==278 || tile==73 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,331,63);
+        }
+        else if(tile==73 && getCarriedItem()!=257 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,331,64);
+        }
+        if(tile==78 && getCarriedItem()==256 || tile==78 && getCarriedItem()==269 || tile==78 && getCarriedItem()==273 || tile==78 && getCarriedItem()==277 || tile==78 && getCarriedItem()==284){
+            Level.dropItem(x,y,z,0.5,332,63);
+        }
+        else if(tile==78 && getCarriedItem()!=256 && getCarriedItem()!=269 && getCarriedItem()!=273 && getCarriedItem()!=277 && getCarriedItem()!=284){
+            Level.dropItem(x,y,z,0.5,332,64);
+        }
+        if(tile==80 && getCarriedItem()==256 || tile==80 && getCarriedItem()==269 || tile==80 && getCarriedItem()==273 || tile==80 && getCarriedItem()==277 || tile==80 && getCarriedItem()==284){
+            Level.dropItem(x,y,z,0.5,332,60);
+        }
+        else if(tile==80 && getCarriedItem()!=256 && getCarriedItem()!=269 && getCarriedItem()!=273 && getCarriedItem()!=277 && getCarriedItem()!=284){
+            Level.dropItem(x,y,z,0.5,332,64);
+        }
+        if(tile==81 || tile==82 || tile==83 || tile==85 || tile==86 || tile==89 || tile==91 || tile==96 || tile==102 || tile==107){
+            Level.dropItem(x,y,z,0.5,tile,63);
+        }
+        if(tile==87 && getCarriedItem()==257 || tile==87 && getCarriedItem()==270 || tile==87 && getCarriedItem()==274 || tile==87 && getCarriedItem()==278 || tile==87 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,87,63);
+        }
+        else if(tile==87 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,87,64);
+        }
+        if(tile==98 && getCarriedItem()==257 || tile==98 && getCarriedItem()==270 || tile==98 && getCarriedItem()==274 || tile==98 && getCarriedItem()==278 || tile==98 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,98,63);
+        }
+        else if(tile==98 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,98,64);
+        }
+        if(tile==101 && getCarriedItem()==257 || tile==101 && getCarriedItem()==270 || tile==101 && getCarriedItem()==274 || tile==101 && getCarriedItem()==278 || tile==101 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,101,63);
+        }
+        else if(tile==101 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,101,64);
+        }
+        if(tile==103){
+            Level.dropItem(x,y,z,0.5,360,57);
+        }
+        if(tile==108 && getCarriedItem()==257 || tile==108 && getCarriedItem()==270 || tile==108 && getCarriedItem()==274 || tile==108 && getCarriedItem()==278 || tile==108 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,108,63);
+        }
+        else if(tile==108 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,108,64);
+        }
+        if(tile==109 && getCarriedItem()==257 || tile==109 && getCarriedItem()==270 || tile==109 && getCarriedItem()==274 || tile==109 && getCarriedItem()==278 || tile==109 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,109,63);
+        }
+        else if(tile==109 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,109,64);
+        }
+        if(tile==112 && getCarriedItem()==257 || tile==112 && getCarriedItem()==270 || tile==112 && getCarriedItem()==274 || tile==112 && getCarriedItem()==278 || tile==112 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,112,63);
+        }
+        else if(tile==112 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,112,64);
+        }
+        if(tile==114 && getCarriedItem()==257 || tile==114 && getCarriedItem()==270 || tile==114 && getCarriedItem()==274 || tile==114 && getCarriedItem()==278 || tile==114 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,114,63);
+        }
+        else if(tile==114 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,114,64);
+        }
+        if(tile==128 && getCarriedItem()==257 || tile==128 && getCarriedItem()==270 || tile==128 && getCarriedItem()==274 || tile==128 && getCarriedItem()==278 || tile==128 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,128,63);
+        }
+        else if(tile==128 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,128,64);
+        }
+        if(tile==134 || tile==135 || tile==136 || tile==158 || tile==170 || tile==171 || tile==245 || tile==247){
+            Level.dropItem(x,y,z,0.5,tile,63,data);
+        }
+        if(tile==139 && getCarriedItem()==257 || tile==139 && getCarriedItem()==270 || tile==139 && getCarriedItem()==274 || tile==139 && getCarriedItem()==278 || tile==139 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,139,63);
+        }
+        else if(tile==139 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,139,64);
+        }
+        if(tile==155 && getCarriedItem()==257 || tile==155 && getCarriedItem()==270 || tile==155 && getCarriedItem()==274 || tile==155 && getCarriedItem()==278 || tile==155 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,155,63);
+        }
+        else if(tile==155 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,155,64);
+        }
+        if(tile==156 && getCarriedItem()==257 || tile==156 && getCarriedItem()==270 || tile==156 && getCarriedItem()==274 || tile==156 && getCarriedItem()==278 || tile==156 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,156,63);
+        }
+        else if(tile==156 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,156,64);
+        }
+        if(tile==173 && getCarriedItem()==257 || tile==173 && getCarriedItem()==270 || tile==173 && getCarriedItem()==274 || tile==173 && getCarriedItem()==278 || tile==173 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,173,63);
+        }
+        else if(tile==173 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,173,64);
+        }
+        if(tile==244 && getCarriedItem()==257 || tile==244 && getCarriedItem()==270 || tile==244 && getCarriedItem()==274 || tile==244 && getCarriedItem()==278 || tile==244 && getCarriedItem()==285){
+            Level.dropItem(x,y,z,0.5,457,63);
+        }
+        else if(tile==244 && getCarriedItem()!=257 && getCarriedItem()!=270 && getCarriedItem()!=274 && getCarriedItem()!=278 && getCarriedItem()!=285){
+            Level.dropItem(x,y,z,0.5,457,64);
+        }
+		if(tile==250){
+			Level.dropItem(x,y,z,0,247,64);
+		}
+    }
+}
+ 
+function entityAddedHook(entity){
+	if(Entity.getEntityTypeId(entity)==80 ){
+		ground = 1;
+		arrow = entity;
+	}
+	if(Entity.getEntityTypeId(entity)==80 && unlimitedArrow==true){
+		addItemInventory(262,1);
+	}
+}
+function entityRemovedHook(entity)
+{
+var underArrow=getTile(Entity.getX(entity), Entity.getY(entity)-1, Entity.getZ(entity));
+var arrowCoords =getTile(Entity.getX(entity),Entity.getY(entity),Entity.getZ(entity));
+var arrowX=Entity.getX(entity);
+var arrowY=Entity.getY(entity);
+var arrowZ =Entity.getZ(entity);
+if(Entity.getEntityTypeId(entity)==80)
+
+{
+if(explosive==1)
+{
+explode (Entity.getX(entity), Entity.getY(entity)-1,Entity.getZ(entity), 4);
+}
+if(fire==1)
+{
+setTile(Entity.getX(entity), Entity.getY(entity), Entity.getZ(entity), 51);
+setTile(Entity.getX(entity)+1, Entity.getY(entity), Entity.getZ(entity), 51);
+setTile(Entity.getX(entity)-1, Entity.getY(entity), Entity.getZ(entity), 51);
+setTile(Entity.getX(entity), Entity.getY(entity), Entity.getZ(entity)+1, 51);
+setTile(Entity.getX(entity), Entity.getY(entity), Entity.getZ(entity)-1, 51);
+setTile(Entity.getX(entity)+1, Entity.getY(entity), Entity.getZ(entity)+1, 51);
+setTile(Entity.getX(entity)-1, Entity.getY(entity), Entity.getZ(entity)-1, 51);
+setTile(Entity.getX(entity)+1, Entity.getY(entity), Entity.getZ(entity)-1, 51);
+setTile(Entity.getX(entity)-1, Entity.getY(entity), Entity.getZ(entity)+1, 51);
+setTile(Entity.getX(entity)+2, Entity.getY(entity), Entity.getZ(entity), 51);
+setTile(Entity.getX(entity)-2, Entity.getY(entity), Entity.getZ(entity), 51);
+setTile(Entity.getX(entity), Entity.getY(entity), Entity.getZ(entity)+2, 51);
+setTile(Entity.getX(entity), Entity.getY(entity), Entity.getZ(entity)-2, 51);
+onFire==1;
+}
+if(teleport==1)
+{
+setPosition(getPlayerEnt(),Entity.getX(entity), Entity.getY(entity)+2,Entity.getZ(entity));
+}
+if(water==1)
+{
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity), 9);
+setTile (Entity.getX(entity), Entity.getY(entity)+1,Entity.getZ(entity), 9);
+setTile (Entity.getX(entity), Entity.getY(entity)+2,Entity.getZ(entity), 9);
+setTile (Entity.getX(entity)+1, Entity.getY(entity),Entity.getZ(entity), 9);
+setTile (Entity.getX(entity)+2, Entity.getY(entity),Entity.getZ(entity), 9);
+setTile (Entity.getX(entity)-1, Entity.getY(entity),Entity.getZ(entity), 9);
+setTile (Entity.getX(entity)-2, Entity.getY(entity),Entity.getZ(entity), 9);
+setTile (Entity.getX(entity), Entity.getY(entity)+3,Entity.getZ(entity), 9);
+setTile (Entity.getX(entity)+3, Entity.getY(entity),Entity.getZ(entity), 9);
+setTile (Entity.getX(entity)-3, Entity.getY(entity),Entity.getZ(entity), 9);
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity)+1, 9);
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity)-1,9);
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity)+2, 9);
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity)-2, 9);
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity)+3, 9);
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity)-3, 9);
+}
+if(ice==1)
+{
+ if(getTile(Entity.getX(entity), Entity.getY(entity), Entity.getZ(entity))==8||getTile(Entity.getX(entity), Entity.getY(entity), Entity.getZ(entity))==9)
+{
+setTile(arrowX, arrowY,arrowZ,79);
+setTile(arrowX+1, arrowY, arrowZ, 79);
+setTile(arrowX-1, arrowY, arrowZ, 79);
+setTile(arrowX, arrowY, arrowZ+1, 79);
+setTile(arrowX, arrowY, arrowZ-1, 79);
+setTile(arrowX+1, arrowY, arrowZ+1, 79);
+setTile(arrowX-1, arrowY, arrowZ-1, 79);
+setTile(arrowX+1, arrowY, arrowZ-1, 79);
+setTile(arrowX-1, arrowY, arrowZ+1, 79);
+setTile(arrowX+2, arrowY, arrowZ, 79);
+setTile(arrowX-2, arrowY, arrowZ, 79);
+setTile(arrowX, arrowY, arrowZ+2, 79);
+setTile(arrowX, arrowY, arrowZ-2, 79);
+}
+if(underArrow!=8&&underArrow!=9)
+{
+setTile(arrowX, arrowY, arrowZ,79);
+}
+else if(underArrow==8||underArrow==9)
+{
+if(getTile(Entity.getX(entity), Entity.getY(entity), Entity.getZ(entity))==0)
+{
+setTile(arrowX, arrowY-1,arrowZ,79);
+setTile(arrowX+1, arrowY-1, arrowZ, 79);
+setTile(arrowX-1, arrowY-1, arrowZ, 79);
+setTile(arrowX, arrowY-1, arrowZ+1, 79);
+setTile(arrowX, arrowY-1, arrowZ-1, 79);
+setTile(arrowX+1, arrowY-1, arrowZ+1, 79);
+setTile(arrowX-1, arrowY-1, arrowZ-1, 79);
+setTile(arrowX+1, arrowY-1, arrowZ-1, 79);
+setTile(arrowX-1, arrowY-1, arrowZ+1, 79);
+setTile(arrowX+2, arrowY-1, arrowZ, 79);
+setTile(arrowX-2, arrowY-1, arrowZ, 79);
+setTile(arrowX, arrowY-1, arrowZ+2, 79);
+setTile(arrowX, arrowY-1, arrowZ-2, 79);
+}
+}
+}
+if(lava==1)
+{
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity), 10);
+setTile (Entity.getX(entity), Entity.getY(entity)+1,Entity.getZ(entity), 10);
+setTile (Entity.getX(entity), Entity.getY(entity)+2,Entity.getZ(entity), 10);
+setTile (Entity.getX(entity)+1, Entity.getY(entity),Entity.getZ(entity), 10);
+setTile (Entity.getX(entity)+2, Entity.getY(entity),Entity.getZ(entity), 10);
+setTile (Entity.getX(entity)-1, Entity.getY(entity),Entity.getZ(entity), 10);
+setTile (Entity.getX(entity)-2, Entity.getY(entity),Entity.getZ(entity), 10);
+setTile (Entity.getX(entity), Entity.getY(entity)+3,Entity.getZ(entity), 10);
+setTile (Entity.getX(entity)+3, Entity.getY(entity),Entity.getZ(entity), 10);
+setTile (Entity.getX(entity)-3, Entity.getY(entity),Entity.getZ(entity), 10);
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity)+1, 10);
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity)-1,10);
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity)+2, 10);
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity)-2, 10);
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity)+3, 10);
+setTile (Entity.getX(entity), Entity.getY(entity),Entity.getZ(entity)-3, 10);
+}
+if(web==1)
+{
+setTile(Entity.getX(entity), Entity.getY(entity), Entity.getZ(entity),30);
+setTile(Entity.getX(entity)+1, Entity.getY(entity), Entity.getZ(entity),30);
+setTile(Entity.getX(entity)-1, Entity.getY(entity), Entity.getZ(entity),30);
+setTile(Entity.getX(entity), Entity.getY(entity), Entity.getZ(entity)+1,30);
+setTile(Entity.getX(entity), Entity.getY(entity), Entity.getZ(entity)-1,30);
+setTile(Entity.getX(entity)+1, Entity.getY(entity), Entity.getZ(entity)+1,30);
+setTile(Entity.getX(entity)-1, Entity.getY(entity), Entity.getZ(entity)-1,30);
+setTile(Entity.getX(entity)+1, Entity.getY(entity), Entity.getZ(entity)-1,30);
+setTile(Entity.getX(entity)-1, Entity.getY(entity), Entity.getZ(entity)+1,30);
+setTile(Entity.getX(entity), Entity.getY(entity)+1, Entity.getZ(entity),30);
+setTile(Entity.getX(entity)+1, Entity.getY(entity)+1, Entity.getZ(entity),30);
+setTile(Entity.getX(entity)-1, Entity.getY(entity)+1, Entity.getZ(entity),30);
+setTile(Entity.getX(entity), Entity.getY(entity)+1, Entity.getZ(entity)+1,30);
+setTile(Entity.getX(entity), Entity.getY(entity)+1, Entity.getZ(entity)-1,30);
+setTile(Entity.getX(entity)+1, Entity.getY(entity)+1, Entity.getZ(entity)+1,30);
+setTile(Entity.getX(entity)-1, Entity.getY(entity)+1, Entity.getZ(entity)-1,30);
+setTile(Entity.getX(entity)+1, Entity.getY(entity)+1, Entity.getZ(entity)-1,30);
+setTile(Entity.getX(entity)-1, Entity.getY(entity)+1, Entity.getZ(entity)+1,30);
+setTile(Entity.getX(entity), Entity.getY(entity)+2, Entity.getZ(entity),30);
+setTile(Entity.getX(entity)+1, Entity.getY(entity)+2, Entity.getZ(entity),30);
+setTile(Entity.getX(entity)-1, Entity.getY(entity)+2, Entity.getZ(entity),30);
+setTile(Entity.getX(entity), Entity.getY(entity)+2, Entity.getZ(entity)+1,30);
+setTile(Entity.getX(entity), Entity.getY(entity)+2, Entity.getZ(entity)-1,30);
+setTile(Entity.getX(entity)+1, Entity.getY(entity)+2, Entity.getZ(entity)+1,30);
+setTile(Entity.getX(entity)-1, Entity.getY(entity)+2, Entity.getZ(entity)-1,30);
+setTile(Entity.getX(entity)+1, Entity.getY(entity)+2, Entity.getZ(entity)-1,30);
+setTile(Entity.getX(entity)-1, Entity.getY(entity)+2, Entity.getZ(entity)+1,30);
+}
+if(block==1)
+{
+setTile(Entity.getX(entity), Entity.getY(entity), Entity.getZ(entity),getBlock, getBlockData);
+}
+}
+}
+
+function useItem(x,y,z,itemId,blockId,side){
+	if(itemId==261 && block==1){
+		getBlock = blockId;
+		getBlockData = Level.getData(x, y, z);
+		clientMessage("Set block arrow to " + getBlock + ".");
+	}
+    if(blockId==247 && farmReady==true){
+        preventDefault();
+        setTile(x,y,z,250);
+		X = x;
+		Y = y;
+		Z = z;
+        farmActive = true;
+        clientMessage("Animal Farm has started");
+    }
+    if(blockId==250 && farmActive==true){
+        setTile(x,y,z,247);
+        farmActive = false;
+        clientMessage("Animal Farm has ended");
+        spawnCount = 160;
+        preventDefault();
+    }
+}
+ 
+function modTick(){
+	if(speed==2){
+		if(shouldRun==1){
+			Xpos=getPlayerX();
+			Zpos=getPlayerZ();
+			shouldRun = shouldRun + 1;
+		}
+		else if(shouldRun==3){
+			shouldRun=1;
+			Xdiff=getPlayerX()-Xpos;
+			Zdiff=getPlayerZ()-Zpos;
+			setVelX(getPlayerEnt(),Xdiff);
+			setVelZ(getPlayerEnt(),Zdiff);
+			Xdiff=0;
+			Zdiff=0;
+		}
+		if(shouldRun!=1){
+			shouldRun = shouldRun+ 1;
+		}
+	}
+	if(jumpHeight!="1" && Entity.getVelY(getPlayerEnt())>0 && jump==0){
+		setVelY(getPlayerEnt(), jumpVel);
+		jump = 1;
+	}
+	else if(getTile(getPlayerX(), getPlayerY()-2, getPlayerZ())!=0&&jump==1){
+		jump = 0;
+	}
+if(explosive==1&&ground==1||fire==1&&ground==1||water==1&&ground==1||ice==1&&ground==1||lava==1&&ground==1||web==1&&ground==1||block==1&&ground==1)
+{
+if(getTile(Entity.getX(arrow), Entity.getY(arrow)-1,Entity.getZ(arrow))!=0||getTile(Entity.getX(arrow), Entity.getY(arrow)+1,Entity.getZ(arrow))!=0||getTile(Entity.getX(arrow)+1, Entity.getY(arrow),Entity.getZ(arrow))!=0||getTile(Entity.getX(arrow)-1, Entity.getY(arrow),Entity.getZ(arrow))!=0||getTile(Entity.getX(arrow), Entity.getY(arrow),Entity.getZ(arrow)+1)!=0||getTile(Entity.getX(arrow), Entity.getY(arrow),Entity.getZ(arrow)-1)!=0)
+{
+
+Entity.remove(arrow);
+}
+}
+if(teleport==1&&ground==1)
+{
+if(getTile(Entity.getX(arrow), Entity.getY(arrow)-1,Entity.getZ(arrow))!=0||getTile(Entity.getX(arrow), Entity.getY(arrow)+1,Entity.getZ(arrow))!=0||getTile(Entity.getX(arrow)+1, Entity.getY(arrow),Entity.getZ(arrow))!=0||getTile(Entity.getX(arrow)-1, Entity.getY(arrow),Entity.getZ(arrow))!=0||getTile(Entity.getX(arrow), Entity.getY(arrow),Entity.getZ(arrow)+1)!=0||getTile(Entity.getX(arrow), Entity.getY(arrow),Entity.getZ(arrow)-1)!=0)
+{
+if(getTile(Entity.getX(arrow), Entity.getY(arrow),Entity.getZ(arrow))!=95&&Entity.getY(arrow)>1)
+{
+Entity.remove(arrow);
+
+
+}
+}
+}
+if(light==1&&ground==1)
+{
+if(getTile(Entity.getX(arrow), Entity.getY(arrow)-1,Entity.getZ(arrow))!=0||getTile(Entity.getX(arrow), Entity.getY(arrow)+1,Entity.getZ(arrow))!=0||getTile(Entity.getX(arrow)+1, Entity.getY(arrow),Entity.getZ(arrow))!=0||getTile(Entity.getX(arrow)-1, Entity.getY(arrow),Entity.getZ(arrow))!=0||getTile(Entity.getX(arrow), Entity.getY(arrow),Entity.getZ(arrow)+1)!=0||getTile(Entity.getX(arrow), Entity.getY(arrow),Entity.getZ(arrow)-1)!=0)
+{
+
+
+setTile(Entity.getX(arrow), Entity.getY(arrow), Entity.getZ(arrow),89);
+Entity.remove(arrow);
+
+}
+}
+	if(farmActive){
+		spawnCount--;
+	}
+	if(spawnCount==140){
+		Level.spawnMob(X+4, Y, Z+4, spawnType);
+	}
+	if(spawnCount==120){
+		Level.spawnMob(X+4, Y, Z-4, spawnType);
+	}
+	if(spawnCount==100){
+		Level.spawnMob(X-4, Y, Z+4, spawnType);
+	}
+	if(spawnCount==80){
+		Level.spawnMob(X-4, Y, Z-4, spawnType);
+	}
+	if(spawnCount==60){
+		Level.spawnMob(X+4, Y, Z, spawnType);
+	}
+	if(spawnCount==40){
+		Level.spawnMob(X, Y, Z+4, spawnType);
+	}
+	if(spawnCount==20){
+		Level.spawnMob(X, Y+1, Z, spawnType);
+	}
+	if(spawnCount==0){
+		spawnCount = 160;
+	}
+	if(godMode){
+		Player.setHealth(30000);
+	}
+	if(gunEngaged==true && getPitch(getPlayerEnt())>40){
+        var playerYaw = Entity.getYaw(Player.getEntity());
+        var playerPitch = Entity.getPitch(Player.getEntity());
+        velY = Math.sin((playerPitch - 180) / 180 * Math.PI);
+        velX = Math.sin(playerYaw / 180 * Math.PI) * Math.cos((playerPitch - 180) / 180 * Math.PI);
+        velZ = -1 * Math.cos(playerYaw / 180 * Math.PI) * Math.cos((playerPitch - 180) / 180 * Math.PI);
+        entity = Level.spawnMob(Player.getX() + velX * 2, Player.getY(), Player.getZ() + velZ * 2, entityType);
+        if(entityType==80 && entityName=="Fire Arrow"){
+            Entity.setFireTicks(entity, 60);
+        }
+        setVelX(entity, velX * 2);
+        setVelY(entity, velY);
+        setVelZ(entity, velZ * 2);  
+    }
+	if(gunEngaged==true && getPitch(getPlayerEnt())<40){
+        var playerYaw = Entity.getYaw(Player.getEntity());
+        var playerPitch = Entity.getPitch(Player.getEntity());
+        velY = Math.sin((playerPitch - 180) / 180 * Math.PI);
+        velX = Math.sin(playerYaw / 180 * Math.PI) * Math.cos((playerPitch - 180) / 180 * Math.PI);
+        velZ = -1 * Math.cos(playerYaw / 180 * Math.PI) * Math.cos((playerPitch - 180) / 180 * Math.PI);
+        entity = Level.spawnMob(Player.getX() + velX * 2, Player.getY() + 1, Player.getZ() + velZ * 2, entityType);
+        if(entityType==80 && entityName=="Fire Arrow"){
+            Entity.setFireTicks(entity, 60);
+        }
+        setVelX(entity, velX * 2);
+        setVelY(entity, velY);
+        setVelZ(entity, velZ * 2);  
+    }
+	if(flyUp){
+		setVelY(getPlayerEnt(), 0.5);
+	}
+	if(flyDown){
+		setVelY(getPlayerEnt(), -0.5);
+	}
+	if(flyReady==true && flyUp==false && flyDown==false){
+		setVelY(getPlayerEnt(), 0);
+	}
+	if(controlsReady){
+	    //500ISE's script
+		var playerYaw = getYaw();
+		var playerPitch = getPitch();
+		setRot(controlledMob, playerYaw, 0);
+		var velX = -1 * Math.sin(playerYaw / 180 * Math.PI) * ANIMAL_SPEED;
+		var velZ = Math.cos(playerYaw / 180 * Math.PI) * ANIMAL_SPEED;
+		if(forward){
+			setVelX(controlledMob, velX);
+			setVelZ(controlledMob, velZ);
+			setVelY(controlledMob, 0);
+		}
+		if(backward){
+			setVelX(controlledMob, -velX);
+			setVelZ(controlledMob, -velZ);
+			setVelY(controlledMob, 0);
+		}
+		if(up){
+			setVelY(controlledMob, 0.5);
+		}
+		if(down){
+			setVelY(controlledMob, -0.5);
+		}
+	}
+	if(controlsReady==true && forward==false && backward==false && up==false && down==false){
+		setVelX(controlledMob, 0);
+		setVelZ(controlledMob, 0);
+		setVelY(controlledMob, 0);
+	}
+}
+ 
+function attackHook(attacker, victim){
+	if(knockBack){
+		if(getYaw() < 0){
+			var hit = getYaw()+90;
+			for(go=0; hit<0; go++)
+			{
+				hit+= 360;
+			}
+			x = Math.cos(hit*(Math.PI/180));
+			z = Math.sin(hit*(Math.PI/180));
+			setVelX(victim, x*3);
+			setVelY(victim, 1);
+			setVelZ(victim, z*3);
+		}
+		else if(getYaw() > 0 && getYaw() < 360)
+		{
+			var hit = getYaw()+90;
+			XVel = Math.cos(hit*(Math.PI/180));
+			ZVel= Math.sin(hit*(Math.PI/180));
+			setVelX(victim, XVel*3);
+			setVelY(victim, 1);
+			setVelZ(victim, ZVel*3);
+		}
+		else if( getYaw() >= 360)
+		{
+			var hit= getYaw()+90;
+			for(go=0; hit>=360; go++)
+			{
+				hit -= 360;
+			}
+			XVel = Math.cos(hit*(Math.PI/180));
+			ZVel = Math.sin(hit*(Math.PI/180));
+			setVelX(victim, XVel*3);
+			setVelY(victim, 1);
+			setVelZ(victim, ZVel*3);
+		}
+	}
+	if(instaKill){
+		Entity.setHealth(victim, 0);
+	}
+	if(saddleUp){
+		preventDefault();
+		rideAnimal(attacker, victim);
+		controlledMob = victim;
+		controlsReady = true;
+	}
+}
+ 
+function instaDestroy(){
+	for(i = 0; i < 256; i++){
+		Block.setDestroyTime(i, 0);
+	}
+}
+ 
+function defaultDestroy(){
+	for(i = 0; i < 256; i++){
+		Block.setDestroyTime(i, defaultDestroyTime[i]);
+	}
+}
