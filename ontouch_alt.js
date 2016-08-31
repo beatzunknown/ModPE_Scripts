@@ -5,70 +5,47 @@ var start = false;
 
 
 function newLevel(){
-
-
+	ctx.runOnUiThread(new java.lang.Runnable(){ run: function(){
+		try{
+ 			GUI = new android.widget.PopupWindow();
+			var layout = new android.widget.LinearLayout(ctx);
+			var btn = new android.widget.Button(ctx);
  
-ctx.runOnUiThread(new java.lang.Runnable(){
- 
-run: function(){
- 
-try{
- 
-GUI = new android.widget.PopupWindow();
+			btn.setText("x");
+			layout.addView(btn);
 
-var layout = new android.widget.LinearLayout(ctx);
-var btn = new android.widget.Button(ctx);
- 
-btn.setText("x");
+			GUI.setContentView(layout);
+			GUI.setHeight(android.widget.LinearLayout.LayoutParams.WRAP_CONTENT);
+			GUI.setWidth(android.widget.LinearLayout.LayoutParams.WRAP_CONTENT);
+			GUI.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.BOTTOM | android.view.Gravity.RIGHT, 0, 450);
 
-layout.addView(btn);
-
-GUI.setContentView(layout);
-GUI.setHeight(android.widget.LinearLayout.LayoutParams.WRAP_CONTENT);
-GUI.setWidth(android.widget.LinearLayout.LayoutParams.WRAP_CONTENT);
-GUI.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.BOTTOM | android.view.Gravity.RIGHT, 0, 450);
-
-btn.onTouchListener(new android.view.View.OnTouchListener({
- 
-onTouch: function(view, event){
-
-switch(event.getAction()){
-case MotionEvent.ACTION_DOWN:
-bowshot = 1;
-break;
-case MotionEvent.ACTION_UP:
-bowshot = 0;
-break;
-}
-
-}
- 
-}));
- 
-} catch (e){
-print ("Error: "+e)
-}
-
-}});
+			btn.onTouchListener(new android.view.View.OnTouchListener({
+				onTouch: function(view, event){
+					switch(event.getAction()){
+						case MotionEvent.ACTION_DOWN:
+							bowshot = 1;
+							break;
+						case MotionEvent.ACTION_UP:
+							bowshot = 0;
+							break;
+					}
+				}
+			}));
+			
+			} catch (e){
+				print ("Error: "+e)
+			}
+	}});
 }
  
 function leaveGame(){
- 
-ctx.runOnUiThread(new java.lang.Runnable(){
- 
-run: function(){
- 
-if(GUI != null){
- 
-GUI.dismiss();
- 
+	ctx.runOnUiThread(new java.lang.Runnable(){ run: function(){
+ 		if(GUI != null){
+ 			GUI.dismiss();
+		}
+	}});
 }
- 
-}
- 
-});
- 
-}
+
 function modTick() {
 	if(bowshot==1&&getPitch(getPlayerEnt())<40){
 		var playerYaw = Entity.getYaw(Player.getEntity());
